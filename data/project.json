@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "jgabrillo",
+    "is_private": false,
+    "title": "Music of Asian Americans",
+    "description": "This project brings together student-created audiovisual annotations from Music of Asian Americans, an advanced undergraduate and graduate seminar at the University of Texas at Austin. Across the themes of Memory, Spectacle, and Roots-Routes, students examine specific musical and media moments through guided, timestamped responses attentive to sound, image, performance, history, and circulation. The project offers an alternative to the conventional analytical essay while introducing AVAnnotate as a tool students may adapt for future work in research, teaching, public scholarship, and performance practice.",
+    "language": "en",
+    "slug": "music-of-asian-americans",
+    "creator": "jgabrillo",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-07-29T16:29:19.134Z",
+    "updated_at": "2026-07-29T16:29:19.134Z"
   }
 }
