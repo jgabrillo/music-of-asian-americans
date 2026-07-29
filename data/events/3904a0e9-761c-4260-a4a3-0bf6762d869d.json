@@ -1,0 +1,48 @@
+{
+  "audiovisual_files": {
+    "b3b249ff-7a4d-4b78-86da-a9a6e41de0fd": {
+      "label": " Nobuko Miyamoto, \"Gaman\"",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=K0tL8-j_i9Q",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nobuko Miyamoto is a singer, dancer, and composer whose career is deeply entangled with Asian American cultural organizing. Her work sits at the crossroads of performance and movement history, showing how a song can behave like an archive and a living practice that keeps stories in circulation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "We’ll focus on “Gaman,” from "
+        },
+        {
+          "text": "120,000 Stories",
+          "italic": true
+        },
+        {
+          "text": ", a project that gathers Japanese American memory — especially the pressures, survival strategies, and inherited silences around incarceration — and turns it into a shared repertoire. Listen for how the music holds emotion without flattening it, and how the performance voice carries something larger than one individual speaker."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": " Nobuko Miyamoto, \"Gaman\"",
+  "av_file_order": [
+    "b3b249ff-7a4d-4b78-86da-a9a6e41de0fd"
+  ],
+  "created_at": "2026-07-29T16:35:25.267Z",
+  "created_by": "jgabrillo",
+  "updated_at": "2026-07-29T16:35:25.267Z",
+  "updated_by": "jgabrillo"
+}
