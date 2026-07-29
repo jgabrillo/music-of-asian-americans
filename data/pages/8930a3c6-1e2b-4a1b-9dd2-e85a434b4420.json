@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Watch the three assigned videos and add "
+          "text": "Watch the three assigned clips (Miyamoto, Ibarra, Kouyoumdjian) and add "
         },
         {
           "text": "two annotations to each",
@@ -348,14 +348,14 @@
       ]
     }
   ],
-  "title": "Instructions for Students",
+  "title": "Week 3 - Instructions for Students",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "instructions-for-students",
+  "slug": "week-3-instructions-for-students",
   "created_at": "2026-07-29T17:24:36.315Z",
   "created_by": "jgabrillo",
-  "updated_at": "2026-07-29T17:28:04.221Z",
+  "updated_at": "2026-07-29T17:37:29.914Z",
   "updated_by": "jgabrillo"
 }
