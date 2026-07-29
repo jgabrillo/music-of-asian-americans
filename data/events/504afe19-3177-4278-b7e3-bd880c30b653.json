@@ -1,0 +1,48 @@
+{
+  "audiovisual_files": {
+    "e72933a8-58df-42ac-b427-766064213b75": {
+      "label": "Mary Kouyoumdjian, “You are not a kid”",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/Llxtb_0HNt0",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Composer whose work is often described as documentary composition: music built with and around real testimony, where speaking becomes material and the ensemble becomes a carrier for remembered scenes and aftershock."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "She gives us a different kind of “memory form” than Miyamoto or Ibarra because instead of memory held in song tradition or rap world-building, memory arrives through narrated detail and the compositional frame. We’ll focus on her project "
+        },
+        {
+          "text": "Paper Pianos",
+          "italic": true
+        },
+        {
+          "text": " and its first movement, “You are not a kid.”"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Mary Kouyoumdjian, “You are not a kid”",
+  "av_file_order": [
+    "e72933a8-58df-42ac-b427-766064213b75"
+  ],
+  "created_at": "2026-07-29T16:43:06.568Z",
+  "created_by": "jgabrillo",
+  "updated_at": "2026-07-29T16:43:06.568Z",
+  "updated_by": "jgabrillo"
+}
