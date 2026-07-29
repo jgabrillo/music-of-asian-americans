@@ -1,0 +1,362 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Watch the three assigned videos and add "
+        },
+        {
+          "text": "two annotations to each",
+          "bold": true
+        },
+        {
+          "text": ", for a total of "
+        },
+        {
+          "text": "six annotations",
+          "bold": true
+        },
+        {
+          "text": ". Anchor every annotation to a precise moment and select the tag that best identifies what you are analyzing. In "
+        },
+        {
+          "text": "2–4 sentences (50–75 words)",
+          "bold": true
+        },
+        {
+          "text": ", describe the specific detail you notice and explain how it shapes memory, testimony, inheritance, or historical experience. Focus on close analysis rather than summarizing the whole work."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The tag identifies the "
+        },
+        {
+          "text": "musical, verbal, or visual element",
+          "bold": true
+        },
+        {
+          "text": " under discussion; your annotation explains what that element is doing and why it matters."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Tags",
+          "underline": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "underline": true,
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sound",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Vocals",
+              "bold": true
+            },
+            {
+              "text": " — singing, rap delivery, vocal tone, breath, phrasing, or emphasis"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Rhythm",
+              "bold": true
+            },
+            {
+              "text": " — pulse, groove, flow, pacing, syncopation, or rhythmic change"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Instrumentation",
+              "bold": true
+            },
+            {
+              "text": " — instruments, electronic sounds, ensemble roles, or distinctive timbres"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Form"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Structure",
+              "bold": true
+            },
+            {
+              "text": " — sections, repetition, transitions, buildup, return, or overall organization"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Texture",
+              "bold": true
+            },
+            {
+              "text": " — layering, density, sparseness, and interaction among voices or sounds"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Dynamics",
+              "bold": true
+            },
+            {
+              "text": " — changes in volume, intensity, restraint, force, or climax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Words"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Lyrics",
+              "bold": true
+            },
+            {
+              "text": " — sung or rapped words, verbal imagery, storytelling, or recurring lines"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Speech",
+              "bold": true
+            },
+            {
+              "text": " — testimony, narration, dialogue, interviews, or other spoken voices"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Language",
+              "bold": true
+            },
+            {
+              "text": " — accent, diction, code-switching, translation, or movement among languages"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Image"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Movement",
+              "bold": true
+            },
+            {
+              "text": " — gesture, choreography, posture, facial expression, or bodily action"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Staging",
+              "bold": true
+            },
+            {
+              "text": " — setting, lighting, costume, props, and arrangement of people or objects in space"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Framing",
+              "bold": true
+            },
+            {
+              "text": " — camera angle, shot distance, composition, perspective, and what the image includes or excludes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "An effective annotation identifies something concrete, interprets its significance, and remains closely tied to the selected moment."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Instructions for Students",
+  "parent": "eccdeead-9cac-4d75-a05a-005cdb74b9eb",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "instructions-for-students",
+  "created_at": "2026-07-29T17:24:36.315Z",
+  "created_by": "jgabrillo",
+  "updated_at": "2026-07-29T17:24:36.315Z",
+  "updated_by": "jgabrillo"
+}
