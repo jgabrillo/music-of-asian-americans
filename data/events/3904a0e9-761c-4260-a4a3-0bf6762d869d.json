@@ -16,11 +16,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Witness",
-          "bold": true
-        },
-        {
-          "text": "\nChoose a moment when Miyamoto’s voice seems to carry responsibility beyond individual expression. What do you hear in the delivery, pacing, tone, or phrasing that makes the moment feel like witness?"
+          "text": "Japanese American singer, dancer, and composer whose career is deeply entangled with Asian American cultural organizing. Her work sits at the crossroads of performance and movement history, showing how a song can behave like an archive and a living practice that keeps stories in circulation."
         }
       ]
     },
@@ -28,20 +24,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "bold": true,
-          "text": "Inheritance"
+          "text": "We’ll focus on “Gaman,” from "
         },
         {
-          "text": "\nChoose a moment when memory seems to pass between people, communities, or generations. How does the music help keep that memory in circulation?"
+          "text": "120,000 Stories",
+          "italic": true
+        },
+        {
+          "text": ", a project that gathers Japanese American memory — especially the pressures, survival strategies, and inherited silences around incarceration — and turns it into a shared repertoire. Listen for how the music holds emotion without flattening it, and how the performance voice carries something larger than one individual speaker."
         }
       ]
     }
@@ -53,6 +43,6 @@
   ],
   "created_at": "2026-07-29T16:35:25.267Z",
   "created_by": "jgabrillo",
-  "updated_at": "2026-07-29T16:54:31.853Z",
+  "updated_at": "2026-07-29T16:55:16.997Z",
   "updated_by": "jgabrillo"
 }
