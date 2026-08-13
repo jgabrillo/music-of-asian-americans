@@ -1,1 +1,72 @@
-{"annotations":[],"set":"Default","event_id":"3904a0e9-761c-4260-a4a3-0bf6762d869d","source_id":"b3b249ff-7a4d-4b78-86da-a9a6e41de0fd"}
+{
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ann"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Words",
+          "tag": "language"
+        },
+        {
+          "category": "Image",
+          "tag": "movement"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "d9af71e5-d9ed-435a-8723-6b0d28355f9f"
+    }
+  ],
+  "set": "Default",
+  "event_id": "3904a0e9-761c-4260-a4a3-0bf6762d869d",
+  "source_id": "b3b249ff-7a4d-4b78-86da-a9a6e41de0fd"
+}
