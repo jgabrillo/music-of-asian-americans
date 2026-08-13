@@ -4,11 +4,12 @@
   "created_by": "jgabrillo",
   "title": "Ruby Ibarra, “Bakunawa”",
   "slug": "ruby-ibarra-bakunawa",
-  "updated_at": "2026-07-29T16:41:10.672Z",
+  "updated_at": "2026-08-13T20:00:46.661Z",
   "updated_by": "jgabrillo",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "24b154ab-1880-4e50-bea3-a56a3a42313b"
-  }
+  },
+  "parent": "8930a3c6-1e2b-4a1b-9dd2-e85a434b4420"
 }
