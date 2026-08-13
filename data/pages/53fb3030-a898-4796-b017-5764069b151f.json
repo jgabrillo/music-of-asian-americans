@@ -4,11 +4,12 @@
   "created_by": "jgabrillo",
   "title": "Mary Kouyoumdjian, “You are not a kid”",
   "slug": "mary-kouyoumdjian-you-are-not-a-kid",
-  "updated_at": "2026-07-29T16:43:06.787Z",
+  "updated_at": "2026-08-13T20:00:53.661Z",
   "updated_by": "jgabrillo",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "504afe19-3177-4278-b7e3-bd880c30b653"
-  }
+  },
+  "parent": "8930a3c6-1e2b-4a1b-9dd2-e85a434b4420"
 }
