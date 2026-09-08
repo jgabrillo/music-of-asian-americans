@@ -26,7 +26,14 @@
           "bold": true
         },
         {
-          "text": ". Anchor every annotation to a precise moment and select the tag that best identifies what you are analyzing. In "
+          "text": ". Anchor every annotation to a precise moment and "
+        },
+        {
+          "text": "select at least 1 tag ",
+          "bold": true
+        },
+        {
+          "text": "that best identifies what you are analyzing. In "
         },
         {
           "text": "2–4 sentences (50–75 words)",
@@ -356,6 +363,6 @@
   "slug": "week-3-instructions-for-students",
   "created_at": "2026-07-29T17:24:36.315Z",
   "created_by": "jgabrillo",
-  "updated_at": "2026-07-29T17:37:29.914Z",
+  "updated_at": "2026-09-08T20:29:13.038Z",
   "updated_by": "jgabrillo"
 }
