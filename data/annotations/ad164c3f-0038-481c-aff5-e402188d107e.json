@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2640,
+      "end_time": 2640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The figure is shown bowed beneath and between horizontal strands of barbed wire, with very little open space around the body. The framing makes confinement the visual condition through which the song’s memory appears. We cannot look at the person without also looking through the barrier. Historical experience is carried as something that still structures how the body can be seen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "5336c1cd-b1d7-4e5c-8031-16737e64e652"
+    }
+  ],
   "set": "Default",
   "event_id": "3904a0e9-761c-4260-a4a3-0bf6762d869d",
   "source_id": "b3b249ff-7a4d-4b78-86da-a9a6e41de0fd"
