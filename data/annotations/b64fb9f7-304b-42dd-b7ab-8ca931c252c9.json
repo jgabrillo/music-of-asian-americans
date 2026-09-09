@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"24b154ab-1880-4e50-bea3-a56a3a42313b","source_id":"29fde53e-3d2e-4a82-9c15-bddfbbd1dc7a"}
+{
+  "annotations": [
+    {
+      "start_time": 5,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "June Millington’s narrated voice opens the video before the song’s other performers take over the foreground. Her measured storytelling makes the Bakunawa myth arrive as something already carried in a human voice, so inheritance begins as an act of telling. When other voices enter later, they sound like another stage in the story’s movement across people and generations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "cf24a60e-440e-4e9f-97f1-8419233faef1"
+    }
+  ],
+  "set": "Default",
+  "event_id": "24b154ab-1880-4e50-bea3-a56a3a42313b",
+  "source_id": "29fde53e-3d2e-4a82-9c15-bddfbbd1dc7a"
+}
