@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"504afe19-3177-4278-b7e3-bd880c30b653","source_id":"e72933a8-58df-42ac-b427-766064213b75"}
+{
+  "annotations": [
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The boy's recorded voice enters with almost nothing around it except a faint, dry rustling or brushing sound. The sparse texture makes the hesitations and grain of the testimony unusually exposed. Rather than illustrating the story immediately, the music first creates space around the speaker, so memory arrives as a voice we have to attend to closely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "16f49b7e-bfe2-4628-84e7-2ea7d5a8ff23"
+    }
+  ],
+  "set": "Default",
+  "event_id": "504afe19-3177-4278-b7e3-bd880c30b653",
+  "source_id": "e72933a8-58df-42ac-b427-766064213b75"
+}
