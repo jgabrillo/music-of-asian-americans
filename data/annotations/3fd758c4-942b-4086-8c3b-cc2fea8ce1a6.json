@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "16f49b7e-bfe2-4628-84e7-2ea7d5a8ff23"
+    },
+    {
+      "start_time": 490,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Near the end, sustained tones and fragmentary gestures give way to denser, more agitated layers: driving pulses, fluttering winds, wailing strings, and a crackling paper sound crowd the space. The testimony is no longer surrounded by quiet. Memory feels unstable and physically pressurized here, as the ensemble turns remembered violence into a changing sonic environment rather than a neutral backdrop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "cd56a07e-11d9-44a5-a34e-c68421565060"
     }
   ],
   "set": "Default",
