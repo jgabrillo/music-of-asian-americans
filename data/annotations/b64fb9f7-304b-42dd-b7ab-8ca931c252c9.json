@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "cf24a60e-440e-4e9f-97f1-8419233faef1"
+    },
+    {
+      "start_time": 336,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera finally widens to show Ibarra cradling her pregnant belly after tighter framing had withheld this information. The change turns the ending into a revelation as the song’s concern with inheritance suddenly points forward. Memory here becomes something still being made, as a work filled with inherited stories closes by placing another generation visibly inside its future."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "2d65d61e-c3d0-4658-b2c8-81471ab7e5db"
     }
   ],
   "set": "Default",
