@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 96,
-      "end_time": 101,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The video pans to a group of three women. From left to right, there is one who bares a child, one who seems middle aged, and one who is elderly. Uncoincidentally, during this scene the lyrics are \"Will we be here... All our lives.\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Image",
-          "tag": "framing"
-        },
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        },
-        {
-          "category": "Image",
-          "tag": "staging"
-        }
-      ],
-      "uuid": "3d55d34e-bdb1-453e-9d47-19fa2aedda71"
-    },
-    {
       "start_time": 160,
       "end_time": 175,
       "annotation": [
