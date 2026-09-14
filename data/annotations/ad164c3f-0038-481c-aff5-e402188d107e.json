@@ -26,31 +26,6 @@
       "uuid": "38cf530a-cf55-45ca-9c49-58e06accf0d7"
     },
     {
-      "start_time": 340,
-      "end_time": 370,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Miyamoto uses the repetitive lyrics of \"120,000 stories\" to really emphasize how truly devastating it is that this has happened to the Japanese Americans in the WWII war and that each and individual soldier had a story, a life, a family, a meaning. This repetition is also emphasizing that this war and the concentration camps was a true show of the abuse of power by the elite to utilize innocent lives for trivial matters. It also shows how dark humanity can be to each other regardless of reason."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        },
-        {
-          "category": "Words",
-          "tag": "language"
-        }
-      ],
-      "uuid": "537b87e4-1ee1-4ebc-848e-d7c6ef08a23f"
-    },
-    {
       "start_time": 343,
       "end_time": 380,
       "annotation": [
