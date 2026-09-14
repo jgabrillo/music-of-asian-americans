@@ -547,31 +547,6 @@
       "uuid": "fbf8f0ba-fb26-4392-96d8-da3698b85cf8"
     },
     {
-      "start_time": 33,
-      "end_time": 60,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "At 0:34 you hear the first piano note being played. This introduction mirrors the story he is telling about finding branches to play drums with and paper to play a piano. This lack of instruments in the story is directly displayed through the musical composition at the beginning of this work conveying the emotions of living in poverty."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "speech"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "words"
-        }
-      ],
-      "uuid": "6d74398f-e144-4351-90e4-5a59855e5325"
-    },
-    {
       "start_time": 125,
       "end_time": 170,
       "annotation": [
