@@ -293,27 +293,6 @@
       "uuid": "7f88a138-2265-49ec-a90d-959f2a286cd7"
     },
     {
-      "start_time": 120,
-      "end_time": 125,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The lyrics \"we fight the wind and sand\" sound like a call back to the lyrics at the beginning of the song, \"120,000 stories buried in the sand.\" At this point, the narrator is fighting against the sand that is trying to bury them or make them give up on life. This beginning implies that in the end they did lose the battle against the sand of time and were forgotten."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        }
-      ],
-      "uuid": "dc92ddc3-8c89-4d5a-a964-abcfc4f444b2"
-    },
-    {
       "start_time": 150,
       "end_time": 160,
       "annotation": [
