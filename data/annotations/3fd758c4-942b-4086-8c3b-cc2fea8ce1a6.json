@@ -388,31 +388,6 @@
       "uuid": "4b0bdaf0-a521-4c20-ac3d-88c5528c88e5"
     },
     {
-      "start_time": 177,
-      "end_time": 208,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Later, as the background music grows louder and the man’s voice also becomes louder, it brings to mind the image of a revolutionary giving a speech while marching. In particular, the man’s voice synchronized with the sound of the trumpet feels almost like a declaration."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "vocals"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "sound"
-        }
-      ],
-      "uuid": "c2fea3f3-9194-48f3-bb5f-f820ae464de8"
-    },
-    {
       "start_time": 265,
       "end_time": 270,
       "annotation": [
