@@ -472,31 +472,6 @@
       "uuid": "7f88a138-2265-49ec-a90d-959f2a286cd7"
     },
     {
-      "start_time": 43,
-      "end_time": 59,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The first artwork shown is a young girl against barbed wire. The music is a simple piano melody that creates a feeling of trapped innocence. Being the first image of the scene, it immediately evokes a feeling of loneliness while the lyrics reinforce her lack of autonomy. As an intro to the song, this is able to set the tone and place the listener/viewer in a first person perspective of the setting."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Image",
-          "tag": "framing"
-        },
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "05bd882d-7f46-4434-8b40-f8b5a3b6aac6"
-    },
-    {
       "start_time": 70,
       "end_time": 77,
       "annotation": [
