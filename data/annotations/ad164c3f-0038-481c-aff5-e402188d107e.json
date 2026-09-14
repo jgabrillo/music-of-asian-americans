@@ -399,39 +399,6 @@
         }
       ],
       "uuid": "cae7fd38-6690-4f60-940e-d5a9cfe00573"
-    },
-    {
-      "start_time": 196,
-      "end_time": 236,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The woman’s voice, which sounds as if she is bursting out in anger and frustration, along with the choice of words connected to the historical situation, reflects the dark and desperate circumstances of that period. The following images of a crying man and other extreme scenes that look as if someone is pointing a gun further intensify the tragedy of that time."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "speech"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "words"
-        },
-        {
-          "category": "Image",
-          "tag": "framing"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "image"
-        }
-      ],
-      "uuid": "39165f19-23d5-4ba4-b2e2-c69a176179da"
     }
   ],
   "set": "Default",
