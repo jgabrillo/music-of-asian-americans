@@ -317,31 +317,6 @@
       "uuid": "4b0bdaf0-a521-4c20-ac3d-88c5528c88e5"
     },
     {
-      "start_time": 265,
-      "end_time": 270,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The narrator for the first time utter's the title of the piece, \"You are not a kid.\" This builds on the piece by explaining explicitly what emotions the music is alluding to. The piece also shifts again as the chaos picks up, almost as if the narrator spirals from the thought of these harsh words."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "speech"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "structure"
-        }
-      ],
-      "uuid": "60ba6f8d-2161-4ef4-ae52-6578e68d8f85"
-    },
-    {
       "start_time": 524,
       "end_time": 536,
       "annotation": [
