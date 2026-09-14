@@ -330,31 +330,6 @@
       "uuid": "ba4bb127-6b9b-417d-bc2e-43e72580fd61"
     },
     {
-      "start_time": 60,
-      "end_time": 90,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The use of the added vocals in the background as well as the change in the overall chord progression in the piano adds to the melancholy and heart-wretching feeling. It gives the griefing of Miyamoto over the Japanese Americans such a more impactful hit as the song continues to progress into the rest of the story telling of these pitiful Japanese Americans. It feels almost as though she carries the true burden of these soldiers in the WWII camps and that this song is her gateway to letting it all go and removing a weight off her shoulders."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        },
-        {
-          "category": "Sound",
-          "tag": "vocals"
-        }
-      ],
-      "uuid": "af27606d-4edd-4d03-a1b9-8b5b3ff5b16e"
-    },
-    {
       "start_time": 340,
       "end_time": 370,
       "annotation": [
