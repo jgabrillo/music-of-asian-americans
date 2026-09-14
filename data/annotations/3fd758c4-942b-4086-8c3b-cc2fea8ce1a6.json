@@ -22,31 +22,6 @@
       "uuid": "cd56a07e-11d9-44a5-a34e-c68421565060"
     },
     {
-      "start_time": 140,
-      "end_time": 165,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Shortly after the boy says that music under the Taliban was completely forbidden, the music gets louder, and dramatic (with the combined use of intruments and voice). It hides a sense of yearn and desire but also the reality that the boy may never be able to experience the music he has always dreamed of playing one day. As the music simmers down, the boy begins his next testimony."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "form"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "structure"
-        }
-      ],
-      "uuid": "baa09cd5-df37-4fd5-b0d6-3c7fbaeb1242"
-    },
-    {
       "start_time": 380,
       "end_time": 416,
       "annotation": [
