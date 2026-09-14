@@ -22,39 +22,6 @@
       "uuid": "cd56a07e-11d9-44a5-a34e-c68421565060"
     },
     {
-      "start_time": 440,
-      "end_time": 460,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This segment has another change in instrumentals as it goes from the chaotic and loud sounds to this sudden sadness and eerie instrumental. This allows the music to carry the memory of his childhood specifically over the lyrics of him losing his young friends after playing with them in the morning before. The background music throughout this entire art performs their memory as it goes from music that the artist could have played to chaotic sounds finally to the gloomy music in the end saying he was forced to grow up when he was only a child."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "sound"
-        },
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "words"
-        },
-        {
-          "category": "Words",
-          "tag": "speech"
-        }
-      ],
-      "uuid": "a08e4398-cbc3-49a4-b854-68990fedcf7c"
-    },
-    {
       "start_time": 524,
       "end_time": 536,
       "annotation": [
