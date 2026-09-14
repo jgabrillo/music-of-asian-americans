@@ -364,31 +364,6 @@
       "uuid": "8b5cc0ee-8c0c-4632-a7cd-4da63f5c001b"
     },
     {
-      "start_time": 0,
-      "end_time": 160,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The piece starts very thin, giving the listener space to focus on the opening dialogue. It begins with a faint brushing sound, and as the dialogue continues, more instruments are added, such as piano, cello, electronic synth, trumpets, and vocals. The texture continues building throughout this opening and reaches its largest, densest instrumentation right as the dialogue fades out, shifting the listener's attention to the orchestra."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        },
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "e46bdee3-5887-478e-b0f1-62ae96c465db"
-    },
-    {
       "start_time": 85,
       "end_time": 103,
       "annotation": [
