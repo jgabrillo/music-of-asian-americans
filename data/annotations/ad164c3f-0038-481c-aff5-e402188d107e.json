@@ -101,35 +101,6 @@
       "uuid": "f34a750d-6fca-4297-a87e-6acc6499523d"
     },
     {
-      "start_time": 0,
-      "end_time": 75,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The piece begins with a single repeated piano note, creating an air of mystery and solemn emptiness. As the vocals come in, the piano is now accompanied by a single chord. The further we progress, more embellishment is added to the piano accompaniment, but not so much that it changes the reflective character of the piece."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        },
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        },
-        {
-          "category": "Sound",
-          "tag": "vocals"
-        }
-      ],
-      "uuid": "e4e1a719-4692-4200-a7a1-73cf983e6118"
-    },
-    {
       "start_time": 105,
       "end_time": 110,
       "annotation": [
