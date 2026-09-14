@@ -51,31 +51,6 @@
       "uuid": "537b87e4-1ee1-4ebc-848e-d7c6ef08a23f"
     },
     {
-      "start_time": 320,
-      "end_time": 330,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Miyamoto begins the outro of the song with the title \"Gaman.\" In the midst of the tragedy and suffering, the Japanese Americans tell themselves to endure the oppression. This is the only way they can preserve their identity, and carry on/continue to build their legacy. The title being in Japanese specifically captured the essence of holding onto culture intentionally."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "speech"
-        },
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        }
-      ],
-      "uuid": "7f88a138-2265-49ec-a90d-959f2a286cd7"
-    },
-    {
       "start_time": 343,
       "end_time": 380,
       "annotation": [
