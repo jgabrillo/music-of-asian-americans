@@ -147,31 +147,6 @@
       "uuid": "9e277206-403b-4cfd-a514-ef0b3eac990a"
     },
     {
-      "start_time": 120,
-      "end_time": 150,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "After the narrator says he thought he would never be able to play the piano, he goes silent and more instruments join in. First  piano and strings start to tremolo, then woodwinds begin to drone and gliss. Voice, more strings, and finally brass crescendo into a climax before falling back down to piano and strings. This climax covers the originally clear voice of the piano, sounding like the narrator breaking down at the thought of never playing the piano again."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "speech"
-        },
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "3e78c43d-a1f7-4752-9a35-b6d65fabb68a"
-    },
-    {
       "start_time": 147,
       "end_time": 166,
       "annotation": [
