@@ -301,27 +301,6 @@
       "uuid": "3078ffc3-78f2-4eef-b947-751ba7e6810e"
     },
     {
-      "start_time": 145,
-      "end_time": 185,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "While the piece had been relatively quiet, despite its heavy subject matter and dissonant harmonies during the introduction, the addition of voice, trumpet, piano, and other instruments combined to dramatically change the dynamics. Climaxing at 2:30 with an ascending trumpet line, the intensity of the piece dissipates just as quickly as it was created. An exciting trumpet melody turns into a sorrowful bassoon solo."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "dynamics"
-        }
-      ],
-      "uuid": "fbf8f0ba-fb26-4392-96d8-da3698b85cf8"
-    },
-    {
       "start_time": 356,
       "end_time": 375,
       "annotation": [
