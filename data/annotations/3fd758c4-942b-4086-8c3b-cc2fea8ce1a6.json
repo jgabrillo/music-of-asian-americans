@@ -22,31 +22,6 @@
       "uuid": "cd56a07e-11d9-44a5-a34e-c68421565060"
     },
     {
-      "start_time": 6,
-      "end_time": 6,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The boy's recorded voice enters with almost nothing around it except a faint, dry rustling or brushing sound. The sparse texture makes the hesitations and grain of the testimony unusually exposed. Rather than illustrating the story immediately, the music first creates space around the speaker, so memory arrives as a voice we have to attend to closely."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "speech"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        }
-      ],
-      "uuid": "a732d9c3-b309-4f3d-ab0c-be37979a5bc6"
-    },
-    {
       "start_time": 33,
       "end_time": 62,
       "annotation": [
