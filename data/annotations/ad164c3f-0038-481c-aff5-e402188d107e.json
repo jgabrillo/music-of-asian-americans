@@ -176,27 +176,6 @@
       "uuid": "537b87e4-1ee1-4ebc-848e-d7c6ef08a23f"
     },
     {
-      "start_time": 237,
-      "end_time": 237,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This particular artwork displays a lookout post that resembles a skull, or death. This is significant as it emphasizes that the Japanese who were in the internment camps were not safe, nor were they treated humanely."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Image",
-          "tag": "staging"
-        }
-      ],
-      "uuid": "a639a3a1-44d3-4b7c-941e-1c4e07a09f49"
-    },
-    {
       "start_time": 320,
       "end_time": 330,
       "annotation": [
