@@ -401,31 +401,6 @@
       "uuid": "537b87e4-1ee1-4ebc-848e-d7c6ef08a23f"
     },
     {
-      "start_time": 0,
-      "end_time": 150,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Proper female voice with narrative and weakness feeling, a seris of clear and simple piano chords are under the voice. Piano parts sound more like a sequence descending direction, which is very conbination with the voice."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "vocal"
-        }
-      ],
-      "uuid": "7f1557e4-e297-4b63-96b8-b48d900396f0"
-    },
-    {
       "start_time": 83,
       "end_time": 110,
       "annotation": [
