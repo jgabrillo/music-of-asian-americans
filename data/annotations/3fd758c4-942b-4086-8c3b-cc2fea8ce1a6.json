@@ -218,31 +218,6 @@
       "uuid": "8b5cc0ee-8c0c-4632-a7cd-4da63f5c001b"
     },
     {
-      "start_time": 85,
-      "end_time": 103,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "At this time, more instruments like the violin join the piano alongside his narration. They start crescendoing and playing minor and uneasy sounds. It creates the sense that something bad is occurring, and adds some texture to the story aside from the monotone narration."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "dynamics"
-        }
-      ],
-      "uuid": "4d873d17-eb8a-403a-88ad-d8c0d47e214b"
-    },
-    {
       "start_time": 301,
       "end_time": 347,
       "annotation": [
