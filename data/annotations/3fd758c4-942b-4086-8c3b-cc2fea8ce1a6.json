@@ -401,31 +401,6 @@
       "uuid": "3078ffc3-78f2-4eef-b947-751ba7e6810e"
     },
     {
-      "start_time": 76,
-      "end_time": 144,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "At 1:16, the instrumentals slowly shift from a lone piano to an assortment of stringed instruments. This introduction of a new musical voice coincides with Yousufi's explanation that music was forbidden by the Taliban. The strings' heavy melody highlights the tragedy of Yousufi's story, while also intensifying the musical element of the piece by changing the texture."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "instruments"
-        }
-      ],
-      "uuid": "ea4d5722-7104-4c6a-bf5e-3aa47820bef7"
-    },
-    {
       "start_time": 145,
       "end_time": 185,
       "annotation": [
