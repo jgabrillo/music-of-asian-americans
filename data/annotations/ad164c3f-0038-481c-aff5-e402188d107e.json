@@ -268,31 +268,6 @@
       "uuid": "7f88a138-2265-49ec-a90d-959f2a286cd7"
     },
     {
-      "start_time": 150,
-      "end_time": 160,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "When she is speaking not for herself, she changes from her most common form of narration, more of singing that just speaking the story. Here, this dynamic completely changes as she speaks for her Bachan. She says it with emphasis and really no singing aspect to it at all. I think that this is to put emphasis on the words she told her that adds to the story being tolf throughout the song."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "dynamics"
-        }
-      ],
-      "uuid": "3f973a5b-7472-46dd-818d-5378f01bcd29"
-    },
-    {
       "start_time": 270,
       "end_time": 300,
       "annotation": [
