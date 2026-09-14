@@ -47,31 +47,6 @@
       "uuid": "9b060c0f-0f3c-4916-aea1-73d9eb49fe54"
     },
     {
-      "start_time": 279,
-      "end_time": 350,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "As the speaker’s voice fades away, the instrumentals begin to overwhelm and multiple different parts begin playing all at once. The vocals, piano, drums, trumpet, and flute all work together to push a sense of despair and distraught as the layering of all the instruments represent the speaker’s life and the struggles of having to live through a period of government suppression."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "dynamics"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        }
-      ],
-      "uuid": "bd36fd06-1930-4a1a-a94e-7516bdd7f433"
-    },
-    {
       "start_time": 434,
       "end_time": 507,
       "annotation": [
