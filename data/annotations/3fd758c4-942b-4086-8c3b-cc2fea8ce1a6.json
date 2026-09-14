@@ -147,31 +147,6 @@
       "uuid": "bd36fd06-1930-4a1a-a94e-7516bdd7f433"
     },
     {
-      "start_time": 6,
-      "end_time": 26,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The speaker states how he was in love with the piano and how his life was similar to the color of the piano (black and white). This sets the tone as he begins to describe how the Taliban banned any form of music. While the piano is black and white, it has the ability to play such expressive and varying songs. The speaker is constrained to only a paper form of the piano, which cannot play any music, it only represents the form of one. This paper piano is the way the speaker copes with being in such a repressive environment."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "structure"
-        }
-      ],
-      "uuid": "1b07675b-0f7b-4bf7-ba77-25d1295de1f1"
-    },
-    {
       "start_time": 272,
       "end_time": 330,
       "annotation": [
