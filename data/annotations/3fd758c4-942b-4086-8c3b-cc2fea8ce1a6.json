@@ -659,27 +659,6 @@
       "uuid": "50769e83-a374-4a35-a456-cd759220e778"
     },
     {
-      "start_time": 10,
-      "end_time": 12,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Interspersed with the traditional instruments and spoken testimony, Kouyoumdjian includes sounds made from paper, creating an audible, physical connection to the title of the work, Paper Pianos. The brushy sound of paper suggests that music can be made in non-traditional forms, such as in the way that Yousufi practiced piano on a piece of paper with the keys drawn on. The use of paper questions access and how we continue to make music even when the usual avenues of music-making may be obstructed."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "ef4041bb-4ebc-4954-989d-6b138c5a8498"
-    },
-    {
       "start_time": 287,
       "end_time": 288,
       "annotation": [
