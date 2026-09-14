@@ -305,31 +305,6 @@
       "uuid": "34a6933b-429a-4e92-b233-2446f4e263dc"
     },
     {
-      "start_time": 64,
-      "end_time": 71,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This is the first instance where Miyamoto asks \"will I be here all my life,\" a question that is repeated in the lyrics throughout the song. While the literal meaning of the lyrics suggests a sense of hopelessness created by internment, the choice to repeat the lyric throughout the song reinforces this sense of endlessness, extending the perceived scope and impact of the memory."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "structure"
-        },
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        }
-      ],
-      "uuid": "ba4bb127-6b9b-417d-bc2e-43e72580fd61"
-    },
-    {
       "start_time": 340,
       "end_time": 370,
       "annotation": [
