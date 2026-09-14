@@ -905,31 +905,6 @@
       "uuid": "4b0bdaf0-a521-4c20-ac3d-88c5528c88e5"
     },
     {
-      "start_time": 0,
-      "end_time": 53,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The silence in the opening section, or the white noise heard in the background, together with the seriousness of the murmuring voice, sounds almost like the self-deprecating confession of a survivor of a terrible accident speaking decades later in a documentary. However, as music is added in the background and the previously mentioned repetition of “black and white” continues, it begins to sound like a piece of hip-hop music reciting contemplative thoughts about racism."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "words"
-        },
-        {
-          "category": "Words",
-          "tag": "speech"
-        }
-      ],
-      "uuid": "6f2c6fec-fd7d-44ee-ac9c-4e63e7234927"
-    },
-    {
       "start_time": 177,
       "end_time": 208,
       "annotation": [
