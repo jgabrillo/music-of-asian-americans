@@ -201,31 +201,6 @@
       "uuid": "7f88a138-2265-49ec-a90d-959f2a286cd7"
     },
     {
-      "start_time": 270,
-      "end_time": 300,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This point is the loudest that the piano and other instruments get. It is also the time when she is singing the loudest at any point in the song. She is listing all the locations as she repeats the same verses. This really emphasizes all the people she is singing to and allows the instruments to join in on this emphasis."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "dynamics"
-        },
-        {
-          "category": "Sound",
-          "tag": "vocals"
-        }
-      ],
-      "uuid": "6563169b-5ba4-48dd-937f-ef5b73a6e15d"
-    },
-    {
       "start_time": 300,
       "end_time": 325,
       "annotation": [
