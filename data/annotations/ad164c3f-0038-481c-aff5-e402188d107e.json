@@ -1,31 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 370,
-      "end_time": 370,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A low whisper saying “never again” conveys a very somber message that the memories of the lives the Japanese people in those camps had before they entered the camps can never be relived. I also interpreted this whisper as a strong message to listeners never to forget what happened in these camps: keep the message of this song alive in our own memory to ensure nothing like this happens again."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        },
-        {
-          "category": "Sound",
-          "tag": "vocals"
-        }
-      ],
-      "uuid": "38cf530a-cf55-45ca-9c49-58e06accf0d7"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "3904a0e9-761c-4260-a4a3-0bf6762d869d",
   "source_id": "b3b249ff-7a4d-4b78-86da-a9a6e41de0fd"
