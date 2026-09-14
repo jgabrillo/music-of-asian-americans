@@ -51,35 +51,6 @@
       "uuid": "f34a750d-6fca-4297-a87e-6acc6499523d"
     },
     {
-      "start_time": 105,
-      "end_time": 110,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ending with the lyrics of \"Will we be here all our lives?\", a choir comes in. The collective voices imprisoned Japanese people join together in symbolic singing, but it is characterized by longing \"oohs\". Like Miyamoto, who in this piece acts as the voice for those imprisoned, they too wonder how long their unjust containment will last."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        },
-        {
-          "category": "Sound",
-          "tag": "vocals"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        }
-      ],
-      "uuid": "a4840781-42c8-4785-b829-5afe347759c2"
-    },
-    {
       "start_time": 276,
       "end_time": 306,
       "annotation": [
