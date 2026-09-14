@@ -103,27 +103,6 @@
         }
       ],
       "uuid": "2a946543-5853-4bc9-8274-81587df4f18a"
-    },
-    {
-      "start_time": 385,
-      "end_time": 391,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "In this section where he recalls playing with a friend, and finding out his friend died that same day, there is a drum that quietly enters. The drum reaches its loudest right after he says, “and a bullet cut this head off” and slowly tapers. This symbolizes the shock and disbelief he felt, with the strings symbolizing his sorrow."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "sound"
-        }
-      ],
-      "uuid": "c4ab3080-1fe9-4a34-b4ba-f7fc7a9bb40b"
     }
   ],
   "set": "Default",
