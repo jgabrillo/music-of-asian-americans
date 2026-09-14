@@ -230,35 +230,6 @@
       "uuid": "38cfbedd-dc33-49a6-aca6-8327327006ee"
     },
     {
-      "start_time": 265,
-      "end_time": 375,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "At 4:25 the narrator says the title's inspiration, \"You are not a kid.\" Listen to the immediate drop of a dark musical tone when this is said. A strong bassline and percussion section leads a feeling of falling into chaos. The narration explains how he never felt like a child. Then the narration cuts out at 4:45, then the layers of instrumentation increases. Piano, voices, chaotic strings, increase in tempo. It makes you feel like you're falling into madness."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "speech"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "instruments"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        }
-      ],
-      "uuid": "50769e83-a374-4a35-a456-cd759220e778"
-    },
-    {
       "start_time": 287,
       "end_time": 288,
       "annotation": [
