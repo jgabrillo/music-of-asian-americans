@@ -80,31 +80,6 @@
       "uuid": "a4840781-42c8-4785-b829-5afe347759c2"
     },
     {
-      "start_time": 97,
-      "end_time": 109,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Miyamoto holds back in between saying \"will we be here\" and \"all our lives?\" followed by a solemn melody. I think this choice of \"silence\", of holding back, is very purposeful. It feels like she's reliving it, she's holding onto that memory, reliving the fear and asking in disbeleif \"all our lives?\" That's something very heavy and it makes sense that it is followed by that repeptitive melody."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "rhythm"
-        },
-        {
-          "category": "Sound",
-          "tag": "vocals"
-        }
-      ],
-      "uuid": "c523c76f-3315-4c17-b290-b83f7a8dce4d"
-    },
-    {
       "start_time": 276,
       "end_time": 306,
       "annotation": [
