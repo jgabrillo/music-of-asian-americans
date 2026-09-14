@@ -438,31 +438,6 @@
       "uuid": "0bf6bbfe-0841-4672-b93e-dd9d4716606a"
     },
     {
-      "start_time": 135,
-      "end_time": 137,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "We can see an illustration of an older woman with her face partially concealed. This comes with a lyric \"will we be here all our lives?\" being spoken by her granddaughter. The old woman is trying to maintain her composure an dbe strong for the young, confused children. Gaman."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Image",
-          "tag": "framing"
-        },
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        }
-      ],
-      "uuid": "4eea215a-2d1f-459e-aabd-7a964a76a94a"
-    },
-    {
       "start_time": 343,
       "end_time": 380,
       "annotation": [
