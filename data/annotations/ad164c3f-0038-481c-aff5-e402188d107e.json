@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 300,
-      "end_time": 305,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Miyamoto keeps singing \"will we be here [forever]\", over and over again, but this iteration comes across as an angry outburst. So many times of holding back, \"Gaman\", but finally, she cannot hold her patience anymore; everything that Japanese Americans had tried to do to ensure their loyalty to the United States had failed. Around this time stamp, Miyamoto lists out the location of every internment camp while continuing to sing \"will we be here [forever]\"."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "vocals"
-        },
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        }
-      ],
-      "uuid": "f34a750d-6fca-4297-a87e-6acc6499523d"
-    },
-    {
       "start_time": 370,
       "end_time": 370,
       "annotation": [
