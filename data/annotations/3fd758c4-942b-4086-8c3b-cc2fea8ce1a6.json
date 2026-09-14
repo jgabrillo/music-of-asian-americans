@@ -72,31 +72,6 @@
       "uuid": "bd36fd06-1930-4a1a-a94e-7516bdd7f433"
     },
     {
-      "start_time": 272,
-      "end_time": 330,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This section is comprised of the boy's voice expressing his sentiments on his childhood (or lack thereof) and the overtaking of the composition by the ensemble. The swell that occurs during the shift from speaking to pure ensemble guides the listener to the climax of this piece, where the volume and layering of instruments is at its peak. While the confession of the boy in it of itself evokes a sense of sorrow, the crescendo of the ensemble continues the emotions of distress, anger, and almost doom even after the words stop. Here, the vocals, precussion, and other instruments sound like sirens, wailing, and chaos. This gives a moment for the listener to not only have a moment to reflect on his words, but also lets the ensemble move forward the intensity and weight of his testimony."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "dynamics"
-        }
-      ],
-      "uuid": "e9b0c076-ab41-4507-8d58-362357652f45"
-    },
-    {
       "start_time": 434,
       "end_time": 507,
       "annotation": [
