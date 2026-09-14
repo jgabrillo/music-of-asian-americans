@@ -347,39 +347,6 @@
       "uuid": "fbf8f0ba-fb26-4392-96d8-da3698b85cf8"
     },
     {
-      "start_time": 125,
-      "end_time": 170,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This section starts of with noticibly the clarinets, but as time goes on, it crecendos while adding and layering different instruments. It is also not just about volume increasing, but you can also hear the intensity of instrumental voices increases and it leads you to somewhere while not having a clearn ending to it."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "dynamics"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "instruments"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "structure"
-        }
-      ],
-      "uuid": "1a139322-cf55-49e3-aa2f-5b38edd7cef3"
-    },
-    {
       "start_time": 356,
       "end_time": 375,
       "annotation": [
