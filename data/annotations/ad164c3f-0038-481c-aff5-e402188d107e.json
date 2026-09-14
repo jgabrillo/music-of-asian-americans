@@ -813,39 +813,6 @@
       "uuid": "cae7fd38-6690-4f60-940e-d5a9cfe00573"
     },
     {
-      "start_time": 39,
-      "end_time": 80,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The dark atmosphere at the beginning, the girl’s anxiety, and the lyrics that sound as if she is expressing anger toward an unknown person who has confined her, along with images of barbed wire and small living spaces, bring to mind the Holocaust during the World Wars. However, when we actually see her covered with an American blanket, it seems to suggest that in war, innocent civilians are sacrificed regardless of whether they belong to the allied side or the enemy side."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "words"
-        },
-        {
-          "category": "Image",
-          "tag": "framing"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "image"
-        }
-      ],
-      "uuid": "8ffba3ca-b9d4-415e-ae01-718efc553af9"
-    },
-    {
       "start_time": 196,
       "end_time": 236,
       "annotation": [
