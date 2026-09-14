@@ -345,31 +345,6 @@
         }
       ],
       "uuid": "1a84cda7-7fc1-4203-a5b1-a3fd00812f73"
-    },
-    {
-      "start_time": 210,
-      "end_time": 225,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "In this moment, I notice the way the vocal line is layered with the instrumental accompaniment. The accompaniment does not simply support the voice; it creates a musical space around it. The repeated musical figures and the steady pulse give the performance a sense of continuity, while small changes in the vocal phrasing create contrast. I think this musical structure is important because it makes the memory feel ongoing rather than like something that belongs only to the past."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "sound"
-        }
-      ],
-      "uuid": "cae7fd38-6690-4f60-940e-d5a9cfe00573"
     }
   ],
   "set": "Default",
