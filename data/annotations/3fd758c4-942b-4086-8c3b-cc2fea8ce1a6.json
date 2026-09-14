@@ -22,31 +22,6 @@
       "uuid": "cd56a07e-11d9-44a5-a34e-c68421565060"
     },
     {
-      "start_time": 75,
-      "end_time": 115,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Strings are now added to the texture as the instruments slowly begin to increase in intensity. The ominous nature contributes to the tension of the composition thus far, and provides a springboard from which the music is able to leap off of in the immediate section."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        }
-      ],
-      "uuid": "481e7a51-cff3-4ae9-98e1-c93358286f08"
-    },
-    {
       "start_time": 140,
       "end_time": 165,
       "annotation": [
