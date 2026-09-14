@@ -147,31 +147,6 @@
       "uuid": "9e277206-403b-4cfd-a514-ef0b3eac990a"
     },
     {
-      "start_time": 80,
-      "end_time": 83,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "As the narrator says \"music is forbidden,\" the instrumentation grows denser with the addition of the cello and later the violin. The strings crescendo as they glissando up and down, sounding like a cry of dissent against the political institutions that have forced the narrator into a world without music."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "speech"
-        },
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "5e7fa9d5-c578-46ef-9b46-aba59851f3dc"
-    },
-    {
       "start_time": 120,
       "end_time": 150,
       "annotation": [
