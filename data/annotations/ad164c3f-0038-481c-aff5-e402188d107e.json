@@ -401,31 +401,6 @@
       "uuid": "7f88a138-2265-49ec-a90d-959f2a286cd7"
     },
     {
-      "start_time": 70,
-      "end_time": 77,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "After Miyamoto sings \"will I be here all my life,\" a piano begins to play a repeated note and the MV shifts to an image of young girl laying awake at night panning outward towards the window. The monotony of the music seems to symbolize how endless and hopeless the nights seem while living in captivity."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Image",
-          "tag": "framing"
-        },
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "52658566-cc82-4969-bdee-738a975db919"
-    },
-    {
       "start_time": 120,
       "end_time": 125,
       "annotation": [
