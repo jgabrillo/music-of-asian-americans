@@ -207,31 +207,6 @@
         }
       ],
       "uuid": "913add05-0c49-4d58-aa60-3b1e27fe87c3"
-    },
-    {
-      "start_time": 277,
-      "end_time": 308,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I notice that Miyamoto's voice becomes more emotional and intense in this moment. The repetition and pacing make the memory feel heavy and difficult to leave behind. The voice not only tells us about the past; it makes the past feel present."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "dynamic"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "voice"
-        }
-      ],
-      "uuid": "1a84cda7-7fc1-4203-a5b1-a3fd00812f73"
     }
   ],
   "set": "Default",
