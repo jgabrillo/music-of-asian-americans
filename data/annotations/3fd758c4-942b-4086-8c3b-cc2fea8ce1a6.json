@@ -384,27 +384,6 @@
       "uuid": "b67bf461-250c-4aab-bfa2-5e4095db2dbd"
     },
     {
-      "start_time": 146,
-      "end_time": 165,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A sort of crazed trumpet sound starts to grow louder in the chart, spiraling the piece into a more chaotic place"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "6706910b-2c1c-4a9d-911d-75c1e3a3456e"
-    },
-    {
       "start_time": 278,
       "end_time": 293,
       "annotation": [
