@@ -451,31 +451,6 @@
       "uuid": "3078ffc3-78f2-4eef-b947-751ba7e6810e"
     },
     {
-      "start_time": 34,
-      "end_time": 65,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "At this moment, the recorded voice becomes more exposed while the instruments become quieter. The texture becomes thinner, which makes us focus more on the words and the speaker’s voice. The slower pacing and the silence between phrases make the memory feel more personal and emotional. The change in dynamics helps the testimony feel closer and more present."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "dynamics"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "structure"
-        }
-      ],
-      "uuid": "94e5d913-1509-492e-b03b-9f1abdd7d415"
-    },
-    {
       "start_time": 76,
       "end_time": 144,
       "annotation": [
