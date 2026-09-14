@@ -41,6 +41,1014 @@
         }
       ],
       "uuid": "cd56a07e-11d9-44a5-a34e-c68421565060"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The boy's recorded voice enters with almost nothing around it except a faint, dry rustling or brushing sound. The sparse texture makes the hesitations and grain of the testimony unusually exposed. Rather than illustrating the story immediately, the music first creates space around the speaker, so memory arrives as a voice we have to attend to closely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "a732d9c3-b309-4f3d-ab0c-be37979a5bc6"
+    },
+    {
+      "start_time": 33,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A single piano note enters as the speech continues, followed by another, and again. The ambient texture continues to develop, with a soft synth-like dissonance providing body. The piano evolves into a light melody and slowly builds ontop of itself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "851e582f-7666-44bf-8c4d-628eac6aab75"
+    },
+    {
+      "start_time": 75,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Strings are now added to the texture as the instruments slowly begin to increase in intensity. The ominous nature contributes to the tension of the composition thus far, and provides a springboard from which the music is able to leap off of in the immediate section."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "481e7a51-cff3-4ae9-98e1-c93358286f08"
+    },
+    {
+      "start_time": 140,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shortly after the boy says that music under the Taliban was completely forbidden, the music gets louder, and dramatic (with the combined use of intruments and voice). It hides a sense of yearn and desire but also the reality that the boy may never be able to experience the music he has always dreamed of playing one day. As the music simmers down, the boy begins his next testimony."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "form"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "baa09cd5-df37-4fd5-b0d6-3c7fbaeb1242"
+    },
+    {
+      "start_time": 380,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rustling / creaking in the background is similar to that of a creaking opening door in horror movies - you don't know what's behind the door or what may come after. This sound is used at the same time when the boy describes the testimony of how he was playing with a friend one morning, and by nightfall his friend was dead. A listener cannot hear any sorrow, pain, or uncertainty in his voice, but the energy of the music (plus the creaking and rustling) indicates that the boy was truly shocked and surprised at the loss, and as a young boy he wouldn't know how to move on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "9b060c0f-0f3c-4916-aea1-73d9eb49fe54"
+    },
+    {
+      "start_time": 279,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the speaker’s voice fades away, the instrumentals begin to overwhelm and multiple different parts begin playing all at once. The vocals, piano, drums, trumpet, and flute all work together to push a sense of despair and distraught as the layering of all the instruments represent the speaker’s life and the struggles of having to live through a period of government suppression."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "bd36fd06-1930-4a1a-a94e-7516bdd7f433"
+    },
+    {
+      "start_time": 6,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The speaker states how he was in love with the piano and how his life was similar to the color of the piano (black and white). This sets the tone as he begins to describe how the Taliban banned any form of music. While the piano is black and white, it has the ability to play such expressive and varying songs. The speaker is constrained to only a paper form of the piano, which cannot play any music, it only represents the form of one. This paper piano is the way the speaker copes with being in such a repressive environment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "1b07675b-0f7b-4bf7-ba77-25d1295de1f1"
+    },
+    {
+      "start_time": 272,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section is comprised of the boy's voice expressing his sentiments on his childhood (or lack thereof) and the overtaking of the composition by the ensemble. The swell that occurs during the shift from speaking to pure ensemble guides the listener to the climax of this piece, where the volume and layering of instruments is at its peak. While the confession of the boy in it of itself evokes a sense of sorrow, the crescendo of the ensemble continues the emotions of distress, anger, and almost doom even after the words stop. Here, the vocals, precussion, and other instruments sound like sirens, wailing, and chaos. This gives a moment for the listener to not only have a moment to reflect on his words, but also lets the ensemble move forward the intensity and weight of his testimony."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "e9b0c076-ab41-4507-8d58-362357652f45"
+    },
+    {
+      "start_time": 434,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The narrator speaks throughout the majority of this section, recounting the fates of his friends and the horror and violence he witnessed. As the boy explains that the toys he played with were scraps of the war and that his friends were killed in front of him, the ensemble stretches out the emotion in his story. The violin, cello, piano, and percussion are noticibly quieter than other sections of the piece yet play a repeating segment that ellicits a sensation of mourning or anguish. For the listener, the quieter ensemble allows for focus on the storytelling. However, the interaction of the voice and instruments heightens his message and shares with the listener a piece of his feelings from then."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "9e277206-403b-4cfd-a514-ef0b3eac990a"
+    },
+    {
+      "start_time": 80,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the narrator says \"music is forbidden,\" the instrumentation grows denser with the addition of the cello and later the violin. The strings crescendo as they glissando up and down, sounding like a cry of dissent against the political institutions that have forced the narrator into a world without music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "5e7fa9d5-c578-46ef-9b46-aba59851f3dc"
+    },
+    {
+      "start_time": 120,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the narrator says he thought he would never be able to play the piano, he goes silent and more instruments join in. First  piano and strings start to tremolo, then woodwinds begin to drone and gliss. Voice, more strings, and finally brass crescendo into a climax before falling back down to piano and strings. This climax covers the originally clear voice of the piano, sounding like the narrator breaking down at the thought of never playing the piano again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "3e78c43d-a1f7-4752-9a35-b6d65fabb68a"
+    },
+    {
+      "start_time": 147,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is a stark shift in the mood as the narrator is completely removed from the sound, and the instruments dramatically build up, increasing their volume. This happens after the narrator explains how he thought he would never be able to play a real piano due to the war in his country, so this climax felt as though it was trying to place the listener in that context and experience the drama and intensity the boy was exposed to from a young age."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "350dc5ce-5795-4a1c-b851-0b6649e28b16"
+    },
+    {
+      "start_time": 212,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The boy describes how he was grandfathered into religion and has accepted that as part of his identity. It made me reflect on how people are a culmination of their culture, what they are and aren't exposed to. The boy, his whole life, has known that his country is plagued with war, that he must watch his friends die young. This is certainly a unique experience that many listeners, from countries that do not experience this, will not truly grasp immediately."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "8b5cc0ee-8c0c-4632-a7cd-4da63f5c001b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The piece starts very thin, giving the listener space to focus on the opening dialogue. It begins with a faint brushing sound, and as the dialogue continues, more instruments are added, such as piano, cello, electronic synth, trumpets, and vocals. The texture continues building throughout this opening and reaches its largest, densest instrumentation right as the dialogue fades out, shifting the listener's attention to the orchestra."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "e46bdee3-5887-478e-b0f1-62ae96c465db"
+    },
+    {
+      "start_time": 85,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this time, more instruments like the violin join the piano alongside his narration. They start crescendoing and playing minor and uneasy sounds. It creates the sense that something bad is occurring, and adds some texture to the story aside from the monotone narration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "4d873d17-eb8a-403a-88ad-d8c0d47e214b"
+    },
+    {
+      "start_time": 301,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More instruments join in, along with droning in the background. There is no dialogue at this time, just the instruments getting louder and louder until they abruptly stop and the narration joins back in. It again, creates the sense that something bad is occuring (typical with droning)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "e687cac4-370b-4a95-a628-b873508ca930"
+    },
+    {
+      "start_time": 75,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here we get introduced to an erie cello (?) sound with a glissando to every note. The piano is originally pretty erie with the background pad being pretty dissonant, but the glissando definitely adds even more of a thrill. Also, the texture here is pretty polyphonic. The piano and cello are playing their own melodies seperately, neither accompanying the other. There is a LOT more of this polyphonic texture as the piece goes on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Texture"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Instrumentation"
+        }
+      ],
+      "uuid": "9ed15c48-d0b9-4eea-9c63-64e8afda3159"
+    },
+    {
+      "start_time": 195,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel like here the tune gets a lot more organized. The speaker starts talking about a certain culture, and the beat comes in with a song expressing that culture. We can actually hear and process a real connection between the instruments. They form a sound and a certain genre after just having piano cello and a pad. Espcially the trumpet and bell sort of sound. It feels almost like a march with the snare."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Structure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speech"
+        }
+      ],
+      "uuid": "1e5b6273-1a35-4cd4-b8b5-e7e815557484"
+    },
+    {
+      "start_time": 285,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During this segment of the art, the music begins to take over with this chaotic tone compared to the beginning instrumentals. This really allows you to feel how the author felt especially after the repetition of the phrase of him not being a child. It enhances just how chaotic and “apocalyptic” their growing up was."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sound"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "f9bc8604-5b8d-46d1-acf9-20ba2812f3b0"
+    },
+    {
+      "start_time": 440,
+      "end_time": 460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This segment has another change in instrumentals as it goes from the chaotic and loud sounds to this sudden sadness and eerie instrumental. This allows the music to carry the memory of his childhood specifically over the lyrics of him losing his young friends after playing with them in the morning before. The background music throughout this entire art performs their memory as it goes from music that the artist could have played to chaotic sounds finally to the gloomy music in the end saying he was forced to grow up when he was only a child."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sound"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "words"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "a08e4398-cbc3-49a4-b854-68990fedcf7c"
+    },
+    {
+      "start_time": 191,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I notice that the recorded voice and the ensemble music interact in this moment. The music gives the spoken testimony another emotional layer. Instead of only hearing someone tell a memory, we are also hearing the music responding to the voice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "3078ffc3-78f2-4eef-b947-751ba7e6810e"
+    },
+    {
+      "start_time": 34,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this moment, the recorded voice becomes more exposed while the instruments become quieter. The texture becomes thinner, which makes us focus more on the words and the speaker’s voice. The slower pacing and the silence between phrases make the memory feel more personal and emotional. The change in dynamics helps the testimony feel closer and more present."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "94e5d913-1509-492e-b03b-9f1abdd7d415"
+    },
+    {
+      "start_time": 76,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At 1:16, the instrumentals slowly shift from a lone piano to an assortment of stringed instruments. This introduction of a new musical voice coincides with Yousufi's explanation that music was forbidden by the Taliban. The strings' heavy melody highlights the tragedy of Yousufi's story, while also intensifying the musical element of the piece by changing the texture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "instruments"
+        }
+      ],
+      "uuid": "ea4d5722-7104-4c6a-bf5e-3aa47820bef7"
+    },
+    {
+      "start_time": 145,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While the piece had been relatively quiet, despite its heavy subject matter and dissonant harmonies during the introduction, the addition of voice, trumpet, piano, and other instruments combined to dramatically change the dynamics. Climaxing at 2:30 with an ascending trumpet line, the intensity of the piece dissipates just as quickly as it was created. An exciting trumpet melody turns into a sorrowful bassoon solo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "fbf8f0ba-fb26-4392-96d8-da3698b85cf8"
+    },
+    {
+      "start_time": 33,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At 0:34 you hear the first piano note being played. This introduction mirrors the story he is telling about finding branches to play drums with and paper to play a piano. This lack of instruments in the story is directly displayed through the musical composition at the beginning of this work conveying the emotions of living in poverty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "words"
+        }
+      ],
+      "uuid": "6d74398f-e144-4351-90e4-5a59855e5325"
+    },
+    {
+      "start_time": 125,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section starts of with noticibly the clarinets, but as time goes on, it crecendos while adding and layering different instruments. It is also not just about volume increasing, but you can also hear the intensity of instrumental voices increases and it leads you to somewhere while not having a clearn ending to it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "instruments"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "1a139322-cf55-49e3-aa2f-5b38edd7cef3"
+    },
+    {
+      "start_time": 356,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The dissonance coming from the strings at the beginning gives audience an unease feeling that we should pay attention more and more to resolve the unease. Layering and texture of adding paper crumbling sound is also interesting because now instead of paying attention to the unease, it shifts your focus to the paper crumbling sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "instruments"
+        }
+      ],
+      "uuid": "38cfbedd-dc33-49a6-aca6-8327327006ee"
+    },
+    {
+      "start_time": 265,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At 4:25 the narrator says the title's inspiration, \"You are not a kid.\" Listen to the immediate drop of a dark musical tone when this is said. A strong bassline and percussion section leads a feeling of falling into chaos. The narration explains how he never felt like a child. Then the narration cuts out at 4:45, then the layers of instrumentation increases. Piano, voices, chaotic strings, increase in tempo. It makes you feel like you're falling into madness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "instruments"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "50769e83-a374-4a35-a456-cd759220e778"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interspersed with the traditional instruments and spoken testimony, Kouyoumdjian includes sounds made from paper, creating an audible, physical connection to the title of the work, Paper Pianos. The brushy sound of paper suggests that music can be made in non-traditional forms, such as in the way that Yousufi practiced piano on a piece of paper with the keys drawn on. The use of paper questions access and how we continue to make music even when the usual avenues of music-making may be obstructed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "ef4041bb-4ebc-4954-989d-6b138c5a8498"
+    },
+    {
+      "start_time": 287,
+      "end_time": 288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this moment, Yousufi's voice drops out after describing a lack of a true childhood, and the instrumentals take over, rising in dynamics and textural complexity. Through crescendo, increasing density, and dissonance, the instruments interrupt the verbal testimony in a similar way to how Yousufi's childhood was interrupted by the tensions of war, helping to suggest how memory can be overcome or interrupted by emotion, especially when thinking of such a formative period in life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "b67bf461-250c-4aab-bfa2-5e4095db2dbd"
+    },
+    {
+      "start_time": 85,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The texture begins to thicken as more insturments are added, creating a more intense atmosphere. This helps the piece move forward to the main message."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "b4eb2313-c8d3-49ff-93cf-9d2e75e57f5d"
+    },
+    {
+      "start_time": 146,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A sort of crazed trumpet sound starts to grow louder in the chart, spiraling the piece into a more chaotic place"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "6706910b-2c1c-4a9d-911d-75c1e3a3456e"
+    },
+    {
+      "start_time": 16,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the interviewee expresses his love for piano, the background lacks music until the piano starts playing. The intentional silence shows the duality of music’s accessibility to those who admire it. It’s a collaboration between two music lovers with different levels of experience. The interviewee had a hard life, but made it a point to hold on to pleasant memories regarding piano. We attribute calmness, quietness, and peace to our best memories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "words"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "10a60e49-a549-4157-b4bc-1f8d1e4cfdb7"
+    },
+    {
+      "start_time": 278,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the interviewee expresses his love for piano, the background lacks music until the piano starts playing. The intentional silence shows the duality of music’s accessibility to those who admire it. It’s a collaboration between two music lovers with different levels of experience. The interviewee had a hard life, but made it a point to hold on to pleasant memories regarding piano. We attribute calmness, quietness, and peace to our best memories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "words"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "4b0bdaf0-a521-4c20-ac3d-88c5528c88e5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The silence in the opening section, or the white noise heard in the background, together with the seriousness of the murmuring voice, sounds almost like the self-deprecating confession of a survivor of a terrible accident speaking decades later in a documentary. However, as music is added in the background and the previously mentioned repetition of “black and white” continues, it begins to sound like a piece of hip-hop music reciting contemplative thoughts about racism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "words"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "6f2c6fec-fd7d-44ee-ac9c-4e63e7234927"
+    },
+    {
+      "start_time": 177,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Later, as the background music grows louder and the man’s voice also becomes louder, it brings to mind the image of a revolutionary giving a speech while marching. In particular, the man’s voice synchronized with the sound of the trumpet feels almost like a declaration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sound"
+        }
+      ],
+      "uuid": "c2fea3f3-9194-48f3-bb5f-f820ae464de8"
+    },
+    {
+      "start_time": 120,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From here, instruments start being added one by one as the volume increases along. The intensity of the piece rises here dramatically through careful articulation of instruments, as there is no abruptness, however we do feel how and when the shift in the music happens"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "4e07aebf-7d32-417e-8bfb-6931e2e75fe0"
+    },
+    {
+      "start_time": 265,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The narrator for the first time utter's the title of the piece, \"You are not a kid.\" This builds on the piece by explaining explicitly what emotions the music is alluding to. The piece also shifts again as the chaos picks up, almost as if the narrator spirals from the thought of these harsh words."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "60ba6f8d-2161-4ef4-ae52-6578e68d8f85"
+    },
+    {
+      "start_time": 524,
+      "end_time": 536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The quiet ending of this movement sounds uncertain, inconclusive, and it’s as if it lingers even after the last sound you hear. It symbolizes the feeling of remembering when he was a child, and how difficult it is to deal with and heal from childhood trauma. It shapes his testimony by leaving it unresolved and irresolute."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "words"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "sound"
+        }
+      ],
+      "uuid": "2a946543-5853-4bc9-8274-81587df4f18a"
+    },
+    {
+      "start_time": 385,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this section where he recalls playing with a friend, and finding out his friend died that same day, there is a drum that quietly enters. The drum reaches its loudest right after he says, “and a bullet cut this head off” and slowly tapers. This symbolizes the shock and disbelief he felt, with the strings symbolizing his sorrow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "sound"
+        }
+      ],
+      "uuid": "c4ab3080-1fe9-4a34-b4ba-f7fc7a9bb40b"
     }
   ],
   "set": "Default",
