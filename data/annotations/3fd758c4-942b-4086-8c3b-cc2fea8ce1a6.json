@@ -234,35 +234,6 @@
       "uuid": "b67bf461-250c-4aab-bfa2-5e4095db2dbd"
     },
     {
-      "start_time": 278,
-      "end_time": 293,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "As the interviewee expresses his love for piano, the background lacks music until the piano starts playing. The intentional silence shows the duality of music’s accessibility to those who admire it. It’s a collaboration between two music lovers with different levels of experience. The interviewee had a hard life, but made it a point to hold on to pleasant memories regarding piano. We attribute calmness, quietness, and peace to our best memories."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "words"
-        },
-        {
-          "category": "Words",
-          "tag": "speech"
-        },
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "4b0bdaf0-a521-4c20-ac3d-88c5528c88e5"
-    },
-    {
       "start_time": 524,
       "end_time": 536,
       "annotation": [
