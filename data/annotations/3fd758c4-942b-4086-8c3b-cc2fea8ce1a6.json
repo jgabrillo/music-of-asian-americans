@@ -72,31 +72,6 @@
       "uuid": "9e277206-403b-4cfd-a514-ef0b3eac990a"
     },
     {
-      "start_time": 301,
-      "end_time": 347,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "More instruments join in, along with droning in the background. There is no dialogue at this time, just the instruments getting louder and louder until they abruptly stop and the narration joins back in. It again, creates the sense that something bad is occuring (typical with droning)."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        },
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "e687cac4-370b-4a95-a628-b873508ca930"
-    },
-    {
       "start_time": 440,
       "end_time": 460,
       "annotation": [
