@@ -318,31 +318,6 @@
       "uuid": "e687cac4-370b-4a95-a628-b873508ca930"
     },
     {
-      "start_time": 75,
-      "end_time": 98,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Here we get introduced to an erie cello (?) sound with a glissando to every note. The piano is originally pretty erie with the background pad being pretty dissonant, but the glissando definitely adds even more of a thrill. Also, the texture here is pretty polyphonic. The piano and cello are playing their own melodies seperately, neither accompanying the other. There is a LOT more of this polyphonic texture as the piece goes on."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Texture"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Instrumentation"
-        }
-      ],
-      "uuid": "9ed15c48-d0b9-4eea-9c63-64e8afda3159"
-    },
-    {
       "start_time": 195,
       "end_time": 299,
       "annotation": [
