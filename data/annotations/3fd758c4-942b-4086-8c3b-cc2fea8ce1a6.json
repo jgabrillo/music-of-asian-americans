@@ -251,31 +251,6 @@
       "uuid": "a08e4398-cbc3-49a4-b854-68990fedcf7c"
     },
     {
-      "start_time": 191,
-      "end_time": 241,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I notice that the recorded voice and the ensemble music interact in this moment. The music gives the spoken testimony another emotional layer. Instead of only hearing someone tell a memory, we are also hearing the music responding to the voice."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Words",
-          "tag": "speech"
-        },
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "3078ffc3-78f2-4eef-b947-751ba7e6810e"
-    },
-    {
       "start_time": 356,
       "end_time": 375,
       "annotation": [
