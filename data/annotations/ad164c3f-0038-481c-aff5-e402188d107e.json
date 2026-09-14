@@ -330,31 +330,6 @@
       "uuid": "537b87e4-1ee1-4ebc-848e-d7c6ef08a23f"
     },
     {
-      "start_time": 83,
-      "end_time": 110,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Miyamoto uses artwork from Betty Chen to tell a story of all of the Japanese refugees. The framing of individual people makes the piece more intimate and puts into perspective that there were 120,000 people, but each of them had their own life, personalities, and stories. The movement of the camera pans slowly, emphasizing the dread and helplessness they were living through."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Image",
-          "tag": "movement"
-        },
-        {
-          "category": "Image",
-          "tag": "framing"
-        }
-      ],
-      "uuid": "d61b742d-75aa-49af-933d-e51739e1d145"
-    },
-    {
       "start_time": 237,
       "end_time": 237,
       "annotation": [
