@@ -22,31 +22,6 @@
       "uuid": "cd56a07e-11d9-44a5-a34e-c68421565060"
     },
     {
-      "start_time": 380,
-      "end_time": 416,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The rustling / creaking in the background is similar to that of a creaking opening door in horror movies - you don't know what's behind the door or what may come after. This sound is used at the same time when the boy describes the testimony of how he was playing with a friend one morning, and by nightfall his friend was dead. A listener cannot hear any sorrow, pain, or uncertainty in his voice, but the energy of the music (plus the creaking and rustling) indicates that the boy was truly shocked and surprised at the loss, and as a young boy he wouldn't know how to move on."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        }
-      ],
-      "uuid": "9b060c0f-0f3c-4916-aea1-73d9eb49fe54"
-    },
-    {
       "start_time": 434,
       "end_time": 507,
       "annotation": [
