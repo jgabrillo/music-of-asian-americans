@@ -122,31 +122,6 @@
       "uuid": "9e277206-403b-4cfd-a514-ef0b3eac990a"
     },
     {
-      "start_time": 147,
-      "end_time": 166,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "There is a stark shift in the mood as the narrator is completely removed from the sound, and the instruments dramatically build up, increasing their volume. This happens after the narrator explains how he thought he would never be able to play a real piano due to the war in his country, so this climax felt as though it was trying to place the listener in that context and experience the drama and intensity the boy was exposed to from a young age."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "dynamics"
-        }
-      ],
-      "uuid": "350dc5ce-5795-4a1c-b851-0b6649e28b16"
-    },
-    {
       "start_time": 212,
       "end_time": 224,
       "annotation": [
