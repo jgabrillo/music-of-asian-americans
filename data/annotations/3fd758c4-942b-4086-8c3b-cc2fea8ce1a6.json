@@ -168,31 +168,6 @@
       "uuid": "e687cac4-370b-4a95-a628-b873508ca930"
     },
     {
-      "start_time": 195,
-      "end_time": 299,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I feel like here the tune gets a lot more organized. The speaker starts talking about a certain culture, and the beat comes in with a song expressing that culture. We can actually hear and process a real connection between the instruments. They form a sound and a certain genre after just having piano cello and a pad. Espcially the trumpet and bell sort of sound. It feels almost like a march with the snare."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Structure"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Speech"
-        }
-      ],
-      "uuid": "1e5b6273-1a35-4cd4-b8b5-e7e815557484"
-    },
-    {
       "start_time": 285,
       "end_time": 375,
       "annotation": [
