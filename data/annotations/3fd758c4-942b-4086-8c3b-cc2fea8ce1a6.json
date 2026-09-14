@@ -1,31 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 524,
-      "end_time": 536,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The quiet ending of this movement sounds uncertain, inconclusive, and it’s as if it lingers even after the last sound you hear. It symbolizes the feeling of remembering when he was a child, and how difficult it is to deal with and heal from childhood trauma. It shapes his testimony by leaving it unresolved and irresolute."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "words"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "sound"
-        }
-      ],
-      "uuid": "2a946543-5853-4bc9-8274-81587df4f18a"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "504afe19-3177-4278-b7e3-bd880c30b653",
   "source_id": "e72933a8-58df-42ac-b427-766064213b75"
