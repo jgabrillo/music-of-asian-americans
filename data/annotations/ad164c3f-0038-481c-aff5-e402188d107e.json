@@ -1,27 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 239,
-      "end_time": 239,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A small figure moves through oversized outlined buildings marked with labels and numbers. The person seems almost reduced in scale by the mapped environment around them. By placing an individual memory inside this impersonal spatial system, the video makes a tension visible between lived experience and the administrative structures of incarceration, where a remembered life is carried through spaces designed to classify and contain."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Image",
-          "tag": "staging"
-        }
-      ],
-      "uuid": "e2251b58-3e43-48a3-aa96-92fd56d4ac67"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "3904a0e9-761c-4260-a4a3-0bf6762d869d",
   "source_id": "b3b249ff-7a4d-4b78-86da-a9a6e41de0fd"
