@@ -563,31 +563,6 @@
       "uuid": "c2fea3f3-9194-48f3-bb5f-f820ae464de8"
     },
     {
-      "start_time": 120,
-      "end_time": 125,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "From here, instruments start being added one by one as the volume increases along. The intensity of the piece rises here dramatically through careful articulation of instruments, as there is no abruptness, however we do feel how and when the shift in the music happens"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Musical Form",
-          "tag": "dynamics"
-        },
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "4e07aebf-7d32-417e-8bfb-6931e2e75fe0"
-    },
-    {
       "start_time": 265,
       "end_time": 270,
       "annotation": [
