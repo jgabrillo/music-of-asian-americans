@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 160,
-      "end_time": 175,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The portrait in the background depicts a group of Japanese-Americans confronting American soldiers in an internment camp. Every Japanese-American has a detailed face, outfit - each with a unique identity. Right around this time, Miyamoto sings the lyrics \"daily life going on, pretending to be normal\". Each Japanese-American had a niche passion in their lives, but now it was all being taken away by soldiers without faces. To them, and the government responsible, all Japanese-Americans were the same."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Image",
-          "tag": "framing"
-        },
-        {
-          "category": "Words",
-          "tag": "lyrics"
-        }
-      ],
-      "uuid": "3e6b1c30-4f34-46ca-9453-8e9f32d78169"
-    },
-    {
       "start_time": 300,
       "end_time": 305,
       "annotation": [
