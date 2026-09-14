@@ -26,27 +26,6 @@
       "uuid": "f34a750d-6fca-4297-a87e-6acc6499523d"
     },
     {
-      "start_time": 276,
-      "end_time": 306,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "This part that the piano plays is repeated throughout the song, usually when Miyamoto sings \"Will we be here all our lives?\". This repeated piano segment portrays the uncertainty, fear and confusion that Miyamoto felt when she was in the U.S internment camp. She shapes memory through this repetition, especially when it gets stronger each time."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "form"
-        }
-      ],
-      "uuid": "9a36059b-04e1-406e-9f94-ed76ef9f253c"
-    },
-    {
       "start_time": 278,
       "end_time": 291,
       "annotation": [
