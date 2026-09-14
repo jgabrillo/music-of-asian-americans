@@ -488,27 +488,6 @@
       "uuid": "b67bf461-250c-4aab-bfa2-5e4095db2dbd"
     },
     {
-      "start_time": 85,
-      "end_time": 103,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The texture begins to thicken as more insturments are added, creating a more intense atmosphere. This helps the piece move forward to the main message."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        }
-      ],
-      "uuid": "b4eb2313-c8d3-49ff-93cf-9d2e75e57f5d"
-    },
-    {
       "start_time": 146,
       "end_time": 165,
       "annotation": [
