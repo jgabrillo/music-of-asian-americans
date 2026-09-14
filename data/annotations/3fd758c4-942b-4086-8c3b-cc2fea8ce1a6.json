@@ -22,31 +22,6 @@
       "uuid": "cd56a07e-11d9-44a5-a34e-c68421565060"
     },
     {
-      "start_time": 33,
-      "end_time": 62,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A single piano note enters as the speech continues, followed by another, and again. The ambient texture continues to develop, with a soft synth-like dissonance providing body. The piano evolves into a light melody and slowly builds ontop of itself."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Sound",
-          "tag": "instrumentation"
-        },
-        {
-          "category": "Musical Form",
-          "tag": "texture"
-        }
-      ],
-      "uuid": "851e582f-7666-44bf-8c4d-628eac6aab75"
-    },
-    {
       "start_time": 75,
       "end_time": 115,
       "annotation": [
