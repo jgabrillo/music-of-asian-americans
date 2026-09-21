@@ -1,5 +1,1796 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 5,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "June Millington’s narrated voice opens the video before the song’s other performers take over the foreground. Her measured storytelling makes the Bakunawa myth arrive as something already carried in a human voice, so inheritance begins as an act of telling. When other voices enter later, they sound like another stage in the story’s movement across people and generations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "d731df5a-5ca4-4219-9ba7-454f562fab07"
+    },
+    {
+      "start_time": 91,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ruby starts her portion of the song dressed in traditional attire, where she speaks, not raps, her lyrics in Tagalog. When the music shifts over to English, the scene is now Ruby with \"more American\" attire and the lights have become red and later blue. Additionally, she saves the faster, more upbeat rapping for blue, and slows it back down during red lighting. This dramatic split created with langauge and setting not only emphasizes the story, but also the divide between tradition and our culture as Asian Americans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "staging"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "8ddac560-2a73-46a1-bfaa-3e10fe92a2f6"
+    },
+    {
+      "start_time": 198,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this segment, there are two scenes. One where the speaker is in black attire and a silhouette, and the other where she is in a white dress and its a bright sunny day. Listening closely to the lyrics, the darker scene is accompanied with words that refelct some form of divergent thinking and/or the idea of rebeliousness, \"Can I break this cycle...\". The scene switches over to the light only when the lyrics speak of assimilation and cohesive thinking, \"I learned their language...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "staging"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "1cb66bce-473d-4b3c-9d7c-9d5448c77c34"
+    },
+    {
+      "start_time": 83,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the main beat comes in, each beat is heavy with bass and not deviating in rhythm. This is able to show the confidence the performer has. She will not be pushed off course, as each beat sounds as if she is marching forward to achieve a goal. The piece is in a 4/4 time signature the whole time, unwavering, which shows the resilience of her within the harshness of America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        },
+        {
+          "category": "Image",
+          "tag": "movement"
+        }
+      ],
+      "uuid": "f5a1fe8a-cb94-4f7f-b14b-bb65b21f74eb"
+    },
+    {
+      "start_time": 0,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The beginning of the video is edited to show the Bakunawa as something powerful yet dangerous. As Ruby appears and the Bakunawa, she embraces the intensity which is heightened by the use of rich colors in all scenes of the video. Switching from blue to red in the background, wearing dark clothes, and frames flashing in and out tells us that the Bakunawa is very proud of who she is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "staging"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "998a9855-a3b4-4374-bc41-75d722b08f59"
+    },
+    {
+      "start_time": 15,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "June Millington continues her storytelling, interrupted by flashing of modern performers three times. Once after \"Bakunawa, bent snake\", once after \"moon eater\", and finally once after and during \"the cause of natural phenomena\". The melding of the interruptions is accompanied by sounds of flickering, like film passing through, representing the fusion of the ancestral diaspora with modern art style and retelling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "4dc0884e-1508-42f9-9e16-c6d3dda3185b"
+    },
+    {
+      "start_time": 305,
+      "end_time": 314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cutting away from Ruby as she continues to speak, drawn depictions of the bakunawa are displayed in direct parallel of Ruby's personification of the myth. Similarly, the second drawing depicts what may be Ruby herself, effortlessly weathering the storm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "566c93ac-d182-41ce-b041-e8f5afae24f1"
+    },
+    {
+      "start_time": 90,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ruby raps in tagalog and makes a very deep impact with the translation of the overall verse being that you shouldn't underestimate her, that she is fierce, and that she is the Bakunawa which is a Philippines mythological serpent-like creature also known as the \"Moon-Eater.\" This is evident in her lines like \"Ako ang Bakunawa\", and \"Nakatira sa dilim.\" These lines translate to \"I am the Bakunawa\" and \"I live in the dark\" respectively. These lines give insight to her lyrical inspiration of Bakunawa. I also loved the use of Tagolog and Bisaya as a Filipino-American as it truly feels like there is a connection with her culture and people-alike."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "5688982e-61b7-4da4-b135-b7cd26199ef0"
+    },
+    {
+      "start_time": 180,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The vocals come in with the chorus and it has a very repetitive but catchy feeling. It also has a very militant and affirming feeling with the adlibs and background vocals backing up the overall declaration that Ruby is the Bakunawa, that she really is the \"Moon-eater.\" She reiterates what she had previously stated in the verse saying \"Hoy ako ang Bakunawa! ako ang Bakunawa.\" Which translates to \" Hey I am the Bakunawa! I am the Bakunawa.\" It also uses a miniscule cultural nods to her Filipina background with the feeling of a small ensemble/use of parasols in the chorus versus her solo sound in the verses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "f4c9dc9d-49dd-4ef3-8b46-97208ef40529"
+    },
+    {
+      "start_time": 90,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Officially, this is where Ruby begins rapping away, albeit in her native language. This serves as an introduction about her and her origins, and from her aggressive tone and the angryish faces she makes (alongside the bloodsheed), Ruby is proud of her heritage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "f3f01aa9-f206-4723-ac8a-7b53a2ac94ea"
+    },
+    {
+      "start_time": 137,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ibarra uses the phrase “And I was born with two tongues, so I carry two guns,” which represents the power in being born speaking two languages. Words are the most powerful form of communication and tie someone to their ancestry, hence why Ibarra compares it to carrying a gun. Knowing two languages both connects you to the past and the present, myths are carried down from generation to generation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "bf26f7ec-048b-4b34-83ff-56a1a625a694"
+    },
+    {
+      "start_time": 155,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ibarra cuts from red to blue lighting, but still maintaining the same look when she begins the next verse, likely signifying the two different sides within her. When she is in red lighting, she calls back to the sun and fire, and in the blue lighting, she weaves in the moon and the ocean. Both are equally significant, but also polar opposites which ties back to Ibarra’s roots and origins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "staging"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "06bada40-c516-4cea-b5c3-2a177173b1e3"
+    },
+    {
+      "start_time": 135,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ruby Ibarra’s first time rapping in English adds new orchestration and instrumentals that are more intricate. These musical additions mirror the complexity of her identity. She is Filipina American, but addresses the story of the Bakunawa in all of the languages she speaks. Her ability to communicate her memories and stories to different audiences highlights how she holds importance for all of her cultural and community affiliations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "ab1f03b8-426b-4f76-8d98-8d3d17bc066c"
+    },
+    {
+      "start_time": 294,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the song comes to a close the instrumental track becomes much sparser containing mostly sustained notes while Ibarra raps. The music video matches this change of pace showing Ibarra still and cutting only to topical drawings. This in a way emphasizes the \"thesis\" statement allowing us to focus on Ibarra's words."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "staging"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "447387e3-024b-4bc5-a229-9407ecb53051"
+    },
+    {
+      "start_time": 0,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The sounds we hear from the rocking chair, wind, and ambient nature sounds are \"diagetic\" meaning they are sounds that match what is being depicted and exist for the characters being depicted. These sounds gradually morph into the instrumental track as the song itself actually start, blending the older generation of the woman speaking with the younger generation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "staging"
+        },
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "892d5aef-aae0-4bd0-92b2-24165e08a6c5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's no actual music here, but it does introduce us to the song as a clearly political and suggestive song. The imagery of the actual video gives us the notion that these issues have been issues for a long time. A seemingly old and fragile woman in a rocking chair talking about the stories behind the meaning of the song."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "5462894b-44eb-4259-aaff-17ba109775e6"
+    },
+    {
+      "start_time": 241,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I absolutely love this little breakdown section. I thought all the instruments came together really well after that massive build up. The vocal mixing is wonderful, and the bassline really gets you wanting to dance. The rhythm and groove is a pretty funky fun beat that I love, and makes the message even more powerful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        }
+      ],
+      "uuid": "70b300ca-88a0-4b6b-a626-2e6e987e1120"
+    },
+    {
+      "start_time": 0,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this section, we get a prologue before the song starts. The prologue is in English, letting the audience who don't speak Tagalog understand what the Bakunawa is. However, once the music starts playing, we no longer get English lyrics. This forces the English audience to remain curious about what the Bakunawa is and keeps it authentic to the culture. The music and visuals themselves, however, are powerful enough to help the audience understand what the Bakunawa is. Going back to the prologue, the audience gets a glimpse of a natural phenomenon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "2c738285-5be1-4f5d-aa7d-0f0fa2f85ba6"
+    },
+    {
+      "start_time": 285,
+      "end_time": 343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The candles turn off, and the music starts to get quieter. Ruby starts singing/rapping in a speaking manner, and this time in English. The way she speaks sounds like a chant. Ruby's voice is powerful, strong, and brave. With both the mixture of her tone of voice plus the lyrics, Ruby makes it clear she is speaking out about cultural erasure, breaking generational cycles, and resistance through the metaphor of Bakunawa."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "e6127703-a4c9-4bda-ae17-db853d364376"
+    },
+    {
+      "start_time": 161,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Ruby raps, her words and her breaths are short and her words feel like strict, strong stomps that match the precise drum beat in the background. This represents how her memory of herself in America was stripped of its whimsy and dynamism, reduced to something static and rigid. The quick and rigid raps begin to quicken, depicting how the pressure to assimilate to the “American norm” was a stressful memory and she wanted to escape to show and live her life not being afraid or held back from showing her culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        }
+      ],
+      "uuid": "7818d6c1-1d31-4439-91c2-1f88d5fa7e85"
+    },
+    {
+      "start_time": 321,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Ruby says “my rage,” there is an echoing growl that accompanies these words, seemingly representing how her rage takes on the Bakunawa form, that her rage is a powerful beast that should be “spoon-fed”. Furthermore, the distant scream heard at the very beginning (0:48-0:51) is repeated here to reinforce Ruby's rage at her culture being repressed and cast aside in the shadow of American assimilation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "5e015cc0-76a9-4b9a-8dec-17c4bbf72671"
+    },
+    {
+      "start_time": 48,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Immediately after our introduction to the legend of the Bakunawa, the instrumentals blend into a mixture featuring vocals, modern/electronic percussive elements, and even some rattling that eludes to the serpent. There are definitely some moments where the beat in concentrated, but the intensity remains somewhat restrained. The lyrics, I find, in this section from our singer builds the foundation for the remainder of the song; as she recounts making it through the battle of the night, she poses it as a question to the listener, asking it as an invitation for internal reflection."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        },
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        },
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "d285b5ed-c22e-4d00-bfdb-1b99fc970d07"
+    },
+    {
+      "start_time": 226,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This segment begins with a younger singer, repeating her question to the audience: \"If I don't know me, what is my past?\". The lyrics draws the listener back to the idea of remembering ones history and culture, using it as a lesson/reminder that those before you are inevitably a part of your identity. This is emphasized when the lead signer switches to the older generation, where the singer's lyrics continues the message driving the song: knowing ones past as a source of acceptance, perserverance, and liberation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "b86496d9-ec15-4752-8932-c6e5ca98dc6e"
+    },
+    {
+      "start_time": 80,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here the lyrics stop and the beat shifts to a strong, bass drum that maintains the same pulse. This creates a powerful feeling of tension and anticipation, like as if the music is preparing us for something important. This also gives us a moment to feel the rhythm instead of just focusing on the words, shaping the emotional experience of memory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "b674709e-055e-42b0-ada3-e784c63be1c7"
+    },
+    {
+      "start_time": 130,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During this rap part it switches between languages, allowing different parts of her cultural identity to exist within the same song. The code-switching also challenges the idea that diaspora stories have to be translated or simplified for an American audience. By switching between languages, she expresses belonging and distance at the same time and how memory can carry multiple histories without having to fit into one narrative."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "169eb15f-c39a-40a1-b84f-dc4bd6bca951"
+    },
+    {
+      "start_time": 75,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voices harmonize against the main vocals, adding an eerie effect and building suspense. It builds the tension and stress that I believe could be compared to how some people would have felt when listening to the story of the Bakunawa. The contrast between the main vocal and the harmonization makes the song sound scary and tense, keeping your attention on the song."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "a499c7a3-e8ee-420d-95c7-c7b7e3006366"
+    },
+    {
+      "start_time": 180,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The chorus is sung in Tagalog, keeping an aspect of the origins of Bakunawa. It allows us to see the background of Bakunawa and connect it to a culture and a language. I like how Ibarra chooses to make the chorus in Tagalog because it keeps an aspect of tradition of the story of Bakunawa."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "25d496d8-07c0-429a-85ad-e18975baf2a9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The cinematography is undoubtedly a standout feature, with the choice of angles highly engaging and compelling viewers to watch until the end. However, the initial story involving the chair, the cane, and the elderly man completely captured the audience's curiosity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "staging"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "de40c7ba-5bd6-42a3-bbfc-b8d9d809f380"
+    },
+    {
+      "start_time": 135,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A rap piece infused with ethnic cultural characteristics, featuring a uniquely expressive mid-range female voice. Accompanied by a consistent rhythmic pattern throughout, it never becomes monotonous. This is the first surge of rhythm, laying the foundation for the upcoming climax."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        }
+      ],
+      "uuid": "2229e7ae-4292-4fb1-acf1-17c3580a19de"
+    },
+    {
+      "start_time": 198,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this part, the lyrics center on taking the term back and redefining it on her own terms. Right around this point, a white umbrella shows up in the visuals, standing out against what had been a uniform sea of black umbrellas up to that moment. I read the white as symbolizing something clean or newly beginning, so its sudden appearance visually tracks with the idea of reclamation in the lyrics: the black umbrellas represent the old narrative she's moving away from, while the white one marks her rewriting that story into something that belongs to her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "1eb4929d-9370-4195-a48e-3cc2276173f8"
+    },
+    {
+      "start_time": 307,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here the lyrics stop and the beat shifts to a strong, bass drum that maintains the same pulse. This creates a powerful feeling of tension and anticipation, like as if the music is preparing us for something important. This also gives us a moment to feel the rhythm instead of just focusing on the words, shaping emotional experience of memory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "65d22432-c5a1-4adc-8daf-84708edfdf8e"
+    },
+    {
+      "start_time": 60,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ibarra here choses to use a very compressed voice in layer with heavy background vocals to support the compression. In this section, it instantly brings the audience into the mistery of a culture that we do not know. It is also trying to tell the story that in order to understand their culture, we need to dive deep in and set our mood to match."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "4a5dd2bc-189e-468c-a91c-fb6475ff0d9e"
+    },
+    {
+      "start_time": 338,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By paneling away from the frame that Ibarra is showing of pregnancy, it shows the symbol of rebirth and giving us more context about the my of Bakunawa. It also allows the audience to understand that in Philipino culture, rebirth is the key, and they always stay strong even after they die. They find ways to come back to the world through rebirth and carrying what they have in their culture while passing it on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "68b59e04-0853-4589-b5cd-76d14ae9d296"
+    },
+    {
+      "start_time": 50,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The intro to the song starts that sounds almost like a completely different song than when the lyrics start. It goes well with the way the woman was speaking in the beginning, foretelling and almost eerie like. The contrast here is noticable and purposeful before the actual song opens up with lyrics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "529bda22-5480-426d-b89b-f8cdad990a56"
+    },
+    {
+      "start_time": 280,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is when the instrumentation changes again back to what is similar to my previous annotation. There is droning in the background with quiet but edgy instrumentation. There are no vocals at first; then they come back in, more speech-like than previously. I think this is to put an emphasis on the message they want to leave us with."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        }
+      ],
+      "uuid": "a5520d80-f3c0-4c90-b56c-2428ac05ce7a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This video begins with context and storytelling from an older lady. We can hear the creaking of her rocking chair, along with this ambient mythic sound. As she introduces bakunawa, there is glitching, bug like sounds. To me, this resembles how stories and memories are passed down, a grandma sitting down with her grandchildren, simply telling the stories or cultural myths. The sound of the glitches are the sparks of fear before bakanawa becomes the forefront of the video."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "acb817be-b25f-438f-8a35-0eed7a4d8696"
+    },
+    {
+      "start_time": 198,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The density to the music drops off, leaving only the drums and Ibara's voice. She switches back to english asking questions of breaking a cycle and rewriting her story. I think they decided to reduce the instrumentation in this moment to share the main message of the song, focusing on breaking generational traumas and creating a new future."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "4c795f3a-eb49-4074-827d-a3051c13a94d"
+    },
+    {
+      "start_time": 92,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this moment, Ibarra shifts out of English for the first time in the song. This linguistic change comes alongside a change in energy as she raps the lyrics instead of singing. These differences combine to suggest that Ibarra may be protecting aspects of intergenerational, cultural memory, as the audience must make an effort to move away from a white/English-centric hegemony to be able to understand her lyrics and access what she says."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "86a98f8b-223d-4628-887f-57c972f9058f"
+    },
+    {
+      "start_time": 178,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section of the song takes on more layering, as the instrumentals become denser in tandem with multiple voices. The shared voices expressing the story of Bakunawa serve to emphasize the intergenerational nature of how stories are passed along. Instead of one individual passing along the memory to the next generation in a unidirectional way, shared memory becomes something that is created by multiple generations working together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "33f567a6-2378-4309-bb25-f153eae4d0e4"
+    },
+    {
+      "start_time": 83,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This moment shifts from images of strong women to a fearful moment of struggle and drowning. The music gets quieter in this part in contrast to the chaos happening on screen. Quietness here acts as a vessel to communicate eeriness and fear in the story being told."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "b4e9038b-b673-46be-9a0c-0d6727b69883"
+    },
+    {
+      "start_time": 225,
+      "end_time": 262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Halfway through this section, we hear the voice of the elderly woman from the beginning join the choir of younger voices, signifying a generational story being told. This moment is significant as it ties the song back to the intro. It challenges the idea that the song is not a trend but a story that is told by many voices among many years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "65b82bad-da99-4e50-bda4-1c4f1bdf997b"
+    },
+    {
+      "start_time": 91,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this moment, I noticed a change in the voice, rhythm, and intensity. This shift makes the song feel like it moves between different generations and parts of family history. The change from a more personal voice to a stronger rap style makes the memory feel more active and alive. For me, the music shows how memories can change as they move through diaspora and between generations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "7fb4e4e5-be36-4722-9962-4d7752583322"
+    },
+    {
+      "start_time": 179,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this moment, I notice how the repetition of the words and musical patterns creates a feeling of remembering and returning to the same story. The repeated phrases make the memory feel like something that is carried and repeated over time. The instruments also create a background around the voice, so the personal story feels connected to something larger."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "d232b574-a0ae-408b-bb88-3df5cd457df5"
+    },
+    {
+      "start_time": 199,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this segment, the lyrics discuss reclaiming the term and making it something that resonates with her. At this same time I notice a white umbrella appears after there was a previous sea of black umbrellas. In my opinion, the color white symbolizes something pure or the start of something new. So this arrival of the white umbrella can show her reclaiming the term and making it represent her new story rather than the past which were the black umbrellas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "7facf244-1600-4cb5-8a16-75128be4875c"
+    },
+    {
+      "start_time": 309,
+      "end_time": 340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here the artist speaks about her people's history and then goes on to see there is revolution in her panning to her being pregnant. This again can symbolize how she is the start of a new history of this history and term. Physically with her baby and metaphorically talking about rebirthing the new moon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "0cf4bf85-817e-41bb-8bb3-d60b313ba9f2"
+    },
+    {
+      "start_time": 179,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many people with black umbrellas appear on set, showing the people of the nation banding together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "79660058-7d2a-4a94-b881-581de69356e1"
+    },
+    {
+      "start_time": 91,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The sudden change in rhythym to a pulsing bass drum and shift out of English propels the song to a new character and direction"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "c2d9b7cb-092a-45eb-ad9d-ba90ec0c19c5"
+    },
+    {
+      "start_time": 297,
+      "end_time": 342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The background singers and intense percussion drop out, revealing one lasting voice. This simple descending melody allows for Ibarra to shift her intense rapping style into a more calming form of spoken poetry. This drastic change in rapping style feels more personal and almost as if she's speaking directly to the listener."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "b2a69f6c-1c91-4614-90ea-f1cfd3134198"
+    },
+    {
+      "start_time": 130,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Ibarra sings about red and blue, the lighting of the scene changes to those colors as well. The red seems like the power of the sun while the blue, the power of the moon or the monsoon which she mentions in rap as metaphors for her power as the bakunawa. Visuals from earlier in the MV appear to suggest that she became the bakunawa after being thrown into the sea."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "8b101c08-e37b-49ba-b670-e008c95e8dc8"
+    },
+    {
+      "start_time": 199,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ibarra mentions wanting to rewrite her story and praying the moon but getting caught, while her shadowed figure apears in front of a gold and then light blue background. Perhaps this implies that she gained her power of the bakunawa from the moon and consequently had to forget her past as a human."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "015d72b4-45a5-4789-836e-d9cdcbd7bbb9"
+    },
+    {
+      "start_time": 82,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The music transitions from the older woman (June Millington) singing to Ruby Ibarra's rapping with a very firm, declarative style. Her diction and tone forces the viewer to concentrate despite a possible language barrier. Not understanding Tagalog, I felt compelled to find a translation to better understand her message and the conviction with which she is rapping."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "028e9e62-6581-4ad5-8122-c87d6b69a957"
+    },
+    {
+      "start_time": 240,
+      "end_time": 245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is when the song travels back to Millington. I believe it was an intentional choice by Ibarra to include an older Filipina, as they are the generation that pass down myths, such as that of the Bakunawa, to younger generations. The lyrics \"Do you know your story? Why do you feel that pain\" signify the specific experiences her generation went through, and carrying on that knowledge down generations is important to her identity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "a243e875-713f-4787-b9df-4b7d96a924ee"
+    },
+    {
+      "start_time": 2,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the video, which begins with the voice of an old woman, the raw and rough camera movements, the scene of a shaking chair, and the unusual use of focus create a sense of anxiety and tension, as if building up to the introduction of something enormous. In particular, the shots focusing on the woman’s mouth stand out as a visual device that helps the viewer become more immersed in the parts of the story that are meant to be emphasized."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "movement"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "769cb9a3-aab5-4e58-b992-f31ef6c41081"
+    },
+    {
+      "start_time": 154,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the angular braided hair extends beyond the frame, it creates a strong sense of vitality, as if it is constantly receiving energy from somewhere outside the screen. Combined with hands that resemble those of an alien creature, it seems to convey, together with the rap, an unstoppable and powerful life force through nonverbal elements."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "movement"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "6e7abfbc-af17-4031-915c-76b6a4c8a44d"
+    },
+    {
+      "start_time": 327,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The singer picture is seated as she raps about her history and her future as she confirms her identity with the nicknames she gives herself, \"mooneater,\" and such. This is cut between animations showing her \"fight,\" giving a strong sense of connectivity, evoking a storyteller and her paper puppets to tell of this story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "73cf5c5a-4092-4a73-91a6-facc7d0bdc05"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The artist to start the video tells of a story from long ago. She then reappears as a feature at the end. Her words at the beginning imply a long storied history past down generation by generations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "390d40be-4f39-4881-8cad-511591b872bf"
+    },
+    {
+      "start_time": 91,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The voice and rhythm become stronger as the song moves into rap. This change makes the music feel like it is moving from an older story into a present-day voice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "cf9814a8-09dc-41a6-ab2e-65a36eb37c78"
+    },
+    {
+      "start_time": 198,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The switch between English and another language makes different generations and identities feel connected in the same song. The change in language also gives this section a different energy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "678f0b5e-7fdf-4edf-aa9a-d98a22e3a1ed"
+    },
+    {
+      "start_time": 176,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ruby Ibarra switches between English and Filipino, which reflects the different parts of Filipino identity and life in the diaspora. I think the language switches are intentional because they change how the song feels and who it connects with. The English sections make the song accessible to a wider American audience, while the Filipino sections bring in a sense of cultural pride and familiarity for people who share that background."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "188b4921-d7d1-42ee-a232-e87f3c413cd1"
+    },
+    {
+      "start_time": 230,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The line “if I don't know me, what is my past” connects personal identity to the memories and history that people in the diaspora carry with them. It makes me think about how cultural memory can shape who we are, especially when we live away from where our families or ancestors came from. The question feels like a reminder that knowing your past is part of understanding yourself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "51c7804d-938e-4639-b9bf-935042cf1c9e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is no music here; the texture is extremely thin, which allows us to fully focus on the opening dialogue. They use an older woman to tell the story, emphasizing the history behind the tale of the Bakunawa. One interesting element of this opening section is the fact that they do not ever show the old lady's face either, which adds to the suspense before the music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "d15cfc90-779b-4b92-866f-81c1b011847b"
+    },
+    {
+      "start_time": 70,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ruby Ibarra switches between English and Filipino which adds to the traditional element of the song. This instrumentation still remains very light throughout this section, with an extremely simple beat just playing quarter notes on the down beat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "326eb081-f5dc-4d4d-8e4e-1575455470c3"
+    },
+    {
+      "start_time": 15,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While a woman is narrating the myth, there are quick cuts to modern performers on specific words, like “bent snake” and \"moon eater.\" It's not constant, but rather sudden flashes, which makes the myth feel like it leaks into the present instead of staying in the past where the narration is trying to show how present and past collide."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "8cafad69-4343-48af-9859-17cd6111130f"
+    },
+    {
+      "start_time": 309,
+      "end_time": 339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ibarra is rapping about her history at the same time the visuals create the story she is talking about and then she reveals that she's pregnant. The pairing of these elements is doing more than the lyrics alone would, since inheritance stops being something she's just talking about and becomes something that is about to happen again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "7f2acf4f-3e58-4ce4-9e17-17d626dffbbc"
+    },
+    {
+      "start_time": 128,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The shift in lighting becomes especially significant when Ibarra sings about the colors red and blue, as the visuals immediately reflect the colors she describes. The red lighting can be interpreted as representing the sun and its power"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "15887c8e-d10f-4275-9b6f-c022719d18d2"
+    },
+    {
+      "start_time": 150,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The long, braided hair goes outside the frame, making it feel full of energy, almost like it is getting power from somewhere outside the screen. Along with the strange, alien-like hands, these visuals help show a strong and unstoppable sense of power, even without words."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "movement"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "00720582-0146-4ab4-959f-8ff23789b67e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The song begins with a recount of the Bakunawa of an older woman in a rocking chair. Her face is never focused on, simply her mouth and other features that aren’t her face. The choice not to focus on the person telling the story parallels the origins of the story where it's unknown, yet it's a myth known by all Filipinos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "68e93994-8b3d-4211-8bb1-f8c227df0552"
+    },
+    {
+      "start_time": 118,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The song shifts into a verse entirely in Filipino providing a perspective from the Bakunawa, describing its actions and intentions. The Filipino heritage is also presented in the shots during this particular sequence. It begins with the white royal gown worn by the assumed Bakunawa surrounded by traditional Filipino clothing around her. The lighting of the shots particularly in 2:04 and 2:10 contrast the mood of the previous shots during this sequence but also features colors predominant in the Filipino flag.famanda"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "6f597160-f2d5-4541-a27f-fe1ef9ac219d"
+    },
+    {
+      "start_time": 199,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A sort of tag is sung here about \"breaking the cycle\" and the sacrifice that it takes to do so. This encompases a large part of the message of this song, where value of the individual doesn't solely rely on the mistakes of past generations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "74090514-35f6-4f4e-966d-54f3e845448e"
+    },
+    {
+      "start_time": 92,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Listen to this verse that is entirely in Tagalog. This verse speaks about the ferocity and rare value of the narrator. Being compared to diamonds, and blades, she is drawing connection to how the mythical bakunawa shared the same characteristics as her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "f580e35e-21da-4fa5-a280-f17ac8fa79d6"
+    },
+    {
+      "start_time": 289,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The switch from Tagalog to English lines up precisely with a shift from cooler blue lighting to hot red, and the beat tightens into something more aggressive. Rather than treating English as neutral, the video depicts it as combative, aka the language of assimilation arrives with visual and sonic tension, turning bilingualism into conflict rather than an easy switch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "29cf1f03-db90-4891-8c53-74489d83965f"
+    },
+    {
+      "start_time": 230,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The repeated line \"If I don't know me, what is my past?\" puts identity and history into a single question, implying that self-knowledge is impossible without ancestral memory. Its repetition/leitmotiv functions almost like a mantra, insisting that the listener sit with the question rather than resolve it. indeed, inheritance here isn't a fact handed down but an ongoing act of asking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "7bb6e7c9-3cfa-4da0-8b61-c8a7a481ba0c"
+    },
+    {
+      "start_time": 126,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We see blood for the last time. I associate it with the tribal-like drum, which evolves into a new rhythmic section. The next scene is entirely red, turning the actual blood into a visual symbol, while the new musical section becomes its sonic transformation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "5d89671f-f22f-484d-b440-d6341b8e01b0"
+    },
+    {
+      "start_time": 220,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I learned the language to own my words\" first time a clean/ bright image"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "00d933f6-c4f0-40e4-987f-8cd05508562a"
+    }
+  ],
   "set": "Default",
   "event_id": "f06043c9-7e12-4996-9cf9-b34d1a9f8ba6",
   "source_id": "b598dc17-0f15-401d-9909-86cbf040992b"
