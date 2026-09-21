@@ -1,5 +1,1806 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 44,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The figure is shown bowed beneath and between horizontal strands of barbed wire, with very little open space around the body. The framing makes confinement the visual condition through which the song’s memory appears. We cannot look at the person without also looking through the barrier. Historical experience is carried as something that still structures how the body can be seen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "09adbb69-174f-487e-9f56-514ac63119f4"
+    },
+    {
+      "start_time": 96,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video pans to a group of three women. From left to right, there is one who bares a child, one who seems middle aged, and one who is elderly. Uncoincidentally, during this scene the lyrics are \"Will we be here... All our lives.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "b9817cb8-4418-43f1-8fdd-ee4cec301554"
+    },
+    {
+      "start_time": 196,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During this section of the song, Miyamoto list actions of Japanese Americans that prove their loyalty to America, yet they were still treated so pourly. She is practically saying that it is unfair what they are doing to her people. Her singing sounds like crying out for help and begging for answers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "a0923c5e-3f84-4020-8a62-30172cf266d7"
+    },
+    {
+      "start_time": 334,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At 5:34 the recurring constant note of piano accompanied by the lyrics from the introduction is an emphasis to how many stories have been lost in history. These stories of her people are within her, as memory is carried through time and revisitation just as we are brought back to the intro to close out the song. Memory and culture is carried through an individual, as well as through passing down stories/history."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "d64efa1b-f19f-4def-8dea-b2f2c170950e"
+    },
+    {
+      "start_time": 0,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The speaker is only supported by piano and vocal \"ooh\"'s, acting as the people that were likely unable to stay alive and tell their own stories. The vocalists sing with only long tones and no words which shows Miyamoto's resignation and solitude. The melody she sings is much more like spoken poetry, as if she can't bring herself to sing strongly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "26a1d96b-26f9-4974-8b35-5ade904b7905"
+    },
+    {
+      "start_time": 300,
+      "end_time": 320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The repetition of \"Will we be here all our lives,\" feels like she is encouraging others to consider another option, like she is asking if this is really okay with everyone. At the climax, she shouts this phrase and the video pans to someone trapped behind a glass window, who seems to be looking outside with a somber expression. It shows just how difficult it is to go against people that have so much power over you, and how much courage it takes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "0a0a3a62-f8a9-4b92-9742-41bafc3098b0"
+    },
+    {
+      "start_time": 160,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The portrait in the background depicts a group of Japanese-Americans confronting American soldiers in an internment camp. Every Japanese-American has a detailed face, outfit - each with a unique identity. Right around this time, Miyamoto sings the lyrics \"daily life going on, pretending to be normal\". Each Japanese-American had a niche passion in their lives, but now it was all being taken away by soldiers without faces. To them, and the government responsible, all Japanese-Americans were the same."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "75619209-9582-4adc-b88c-696791081edb"
+    },
+    {
+      "start_time": 300,
+      "end_time": 305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miyamoto keeps singing \"will we be here [forever]\", over and over again, but this iteration comes across as an angry outburst. So many times of holding back, \"Gaman\", but finally, she cannot hold her patience anymore; everything that Japanese Americans had tried to do to ensure their loyalty to the United States had failed. Around this time stamp, Miyamoto lists out the location of every internment camp while continuing to sing \"will we be here [forever]\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "91346092-63a9-45ae-9398-039852d80a07"
+    },
+    {
+      "start_time": 196,
+      "end_time": 223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miyamoto continues the retelling of the different testimonies of the Japanese Americans that were incarcerated. Here, Miyamoto emphasizes the lengths that those in the camps took to show their allegience to the country (\"we enlist,\" \"they never find a spy,\" etc), a great many losing their lives (\"800 soldiers die\"), yet still living in uncertainty of ever being recognized for their sacrifices. Paired with the testimony is the growing volume and complexity of the instruments (piano, vocals, and flute), adding supporting layers of intensity to the verbal statement of the injustice the incarcerated faced"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "3324a8f8-9475-42cc-b37a-03a3b3efa368"
+    },
+    {
+      "start_time": 279,
+      "end_time": 314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miyamoto fills this segment with the pattern of repeating \"will we be here all.... our lives\" between the listing of the different interment camps that were created around the United States. The listing of names and repetition of phrase that has driven this piece creates the climax, where the intensity of Miyamoto's voice in it of itself is at its most powerful and the listener is brought to understand just how many places had people living in internment camps without knowing their fates. In a way, the increase in volume and vocal and instrumental force almost transmits the feeling of all 120,000 different stories through a singular voice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "eebeee2b-3a26-443d-9489-cd2ab435535f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The piece begins with a single repeated piano note, creating an air of mystery and solemn emptiness. As the vocals come in, the piano is now accompanied by a single chord. The further we progress, more embellishment is added to the piano accompaniment, but not so much that it changes the reflective character of the piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "e7291527-5c36-4284-b6e4-cad1fbf29ef8"
+    },
+    {
+      "start_time": 105,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ending with the lyrics of \"Will we be here all our lives?\", a choir comes in. The collective voices imprisoned Japanese people join together in symbolic singing, but it is characterized by longing \"oohs\". Like Miyamoto, who in this piece acts as the voice for those imprisoned, they too wonder how long their unjust containment will last."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "23422b90-82f6-49f1-a876-e8f7472da376"
+    },
+    {
+      "start_time": 97,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miyamoto holds back in between saying \"will we be here\" and \"all our lives?\" followed by a solemn melody. I think this choice of \"silence\", of holding back, is very purposeful. It feels like she's reliving it, she's holding onto that memory, reliving the fear and asking in disbeleif \"all our lives?\" That's something very heavy and it makes sense that it is followed by that repetitive melody."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "c35fb429-7ea8-4b96-b15c-c1746136d97f"
+    },
+    {
+      "start_time": 300,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the first time she actually proiritizes a vocal show, and it feels like a cry. This is right after she has listed the names of all of these camps. She returns to the chorus with a new found cry/strength. This is intentionally because during the majority of the song she prioritizes steadiness over a display/show. And here it feels like the cries/voices of everyone who was once there joining together to portray this pain."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "64f19c66-6323-4ad9-8658-7c8f0b6afa8a"
+    },
+    {
+      "start_time": 278,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The continuous cutback to the grave while Nobuko is listing the different names of the Japanese American internment camps across the US. This reveals how the pain and suffering was felt throughout all camps and takes the form of a physical tomb etched into the ground. Although the lives of those in the camps were lost, they were perhaps able to escape the immense suffering they experienced “To Die Is Gain”."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "6848a1ce-f602-4dd7-b928-850fa5a7bd64"
+    },
+    {
+      "start_time": 370,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A low whisper saying “never again” conveys a very somber message that the memories of the lives the Japanese people in those camps had before they entered the camps can never be relived. I also interpreted this whisper as a strong message to listeners never to forget what happened in these camps: keep the message of this song alive in our own memory to ensure nothing like this happens again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "8034da0f-345a-44be-b02f-806f76d26b7f"
+    },
+    {
+      "start_time": 144,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miyamoto points out her grandma always telling her \"Gaman, motto gaman shite ne,\" in which means that just bare with with, just bare with it more. This part not only brings out the sufferings that Japanese Americans have to face during WWII concentration camp, but it also points out sense of hopelessness where all they can do is just bare with it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "078a0363-d40d-411a-ae9a-3c4f72dd5973"
+    },
+    {
+      "start_time": 274,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The constant switches between the grave and eyes along with security camera brings out the suffocation that the music video is trying to convey. It is reminding the Japanese people that even after they die, they are still constantly being watch and there is no sense of freedom whatsoever. On the other hand, it also reminds the people that are still suffering with a strong warning that they can never escape even if they try hard. It gives flashbacks to the beginning bar scene and emphasizes that you are here and you have nowhere to go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "aedb7807-ab29-4b13-8863-28c79a7ace23"
+    },
+    {
+      "start_time": 281,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miyamoto lists the names of the internment camps in a vocal tone that suggests restraint. In highlighting the scope of the many camps, she carries the collective memory of Japanese Americans in her music, and \"Gaman\" becomes a testimony for shared cultural memory rather than a song about solely her own story. At the same time, her restrained tone suggests that she is trying to impart dignity into her description of Japanese American history, asserting agency when talking about events that attempted to dehumanize her community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "cf92d169-2e5f-428c-8f39-ca2b75280c01"
+    },
+    {
+      "start_time": 64,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the first instance where Miyamoto asks \"will I be here all my life,\" a question that is repeated in the lyrics throughout the song. While the literal meaning of the lyrics suggests a sense of hopelessness created by internment, the choice to repeat the lyric throughout the song reinforces this sense of endlessness, extending the perceived scope and impact of the memory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "82f6f4a8-14d7-4d6a-94f9-acd6e36f2d58"
+    },
+    {
+      "start_time": 139,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here the performer switches from a melodic singing verse to a brief moment of powerful talking. She talks from the perspective of her \"bachchan\", and although she's speaking she is almost still rhythmic. However, I also see this point as a switch from dreading being there \"all [her] life\", to a beacon of hope from her role model in the camp."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "8bf19193-21f3-4da4-a321-106a08a4a0ee"
+    },
+    {
+      "start_time": 218,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, the speaker completely drops out. We hear some background voices singing some background embellishments. Personally, this made me focus on the story being played out on the screen. The drawings of a man potentially escaping (?), then his eye turning into the moon. I don't necessarily know what that may mean, however the brief instrumental moment definitely gives the visuals a spotlight."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "97739a26-c000-4cdb-a676-2fba35a1d953"
+    },
+    {
+      "start_time": 60,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The use of the added vocals in the background as well as the change in the overall chord progression in the piano adds to the melancholy and heart-wretching feeling. It gives the griefing of Miyamoto over the Japanese Americans such a more impactful hit as the song continues to progress into the rest of the story telling of these pitiful Japanese Americans. It feels almost as though she carries the true burden of these soldiers in the WWII camps and that this song is her gateway to letting it all go and removing a weight off her shoulders."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "2b4bc816-07e1-4518-b9fc-23ca8fb99050"
+    },
+    {
+      "start_time": 340,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miyamoto uses the repetitive lyrics of \"120,000 stories\" to really emphasize how truly devastating it is that this has happened to the Japanese Americans in the WWII war and that each and individual soldier had a story, a life, a family, a meaning. This repetition is also emphasizing that this war and the concentration camps was a true show of the abuse of power by the elite to utilize innocent lives for trivial matters. It also shows how dark humanity can be to each other regardless of reason."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "572c25d5-d376-4df9-a879-afece49fa8d1"
+    },
+    {
+      "start_time": 149,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whenever she isn't speaking in her own voice, she departs from her usual style of delivery, which leans more toward singing than straightforward narration. That shift is especially clear in the section where she speaks on behalf of her Bachan: the delivery becomes fully spoken, with a stress on the words, and drops the melodic quality almost entirely. I think that contrast is meant to spotlight what her grandmother actually said to her, giving those words added weight within the larger story the song is telling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "dc12c8aa-546d-490c-b5c8-57c7f9850eb3"
+    },
+    {
+      "start_time": 302,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Gaman\" refers to enduring what feels unbearable with patience and quiet strength. The way the piece moves from the artist repeating the question \"will we be here all our lives?\" to the imagery of a young girl confined in a room, before finally landing on the concept of gaman itself, invites us to hear that question as coming from the child's perspective, innocent and simply longing to be free. Read this way, the message of gaman is directed especially at the children, but really at everyone enduring this hardship, urging them to stay resilient through it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "6018ae82-936b-47b1-a184-4e9c7cf43844"
+    },
+    {
+      "start_time": 137,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Proper female voice with narrative and weakness feeling, a series of clear and simple piano chords are under the voice. Piano parts sound more like a sequence descending direction, which is very conbination with the voice. An unexpected flute voice (or quiet small wind voice) came so mysterious yet rich in content solitude."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "afb494d1-29e0-45cb-bacb-c13c2155aa68"
+    },
+    {
+      "start_time": 0,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"A hundred twenty thousand stories\" starts the piece, which is so powerful with the call back at the end. A good example shows that clean and quiet storytelling often carries more power. People will feel different about rehearing the end after they heard the beginging and the middle of the music, until \"never again\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "9d802e5b-2fe3-4750-98f3-7a81de73c29a"
+    },
+    {
+      "start_time": 83,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miyamoto uses artwork from Betty Chen to tell a story of all of the Japanese refugees. The framing of individual people makes the piece more intimate and puts into perspective that there were 120,000 people, but each of them had their own life, personalities, and stories. The movement of the camera pans slowly, emphasizing the dread and helplessness they were living through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "movement"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "76054eeb-3439-4951-a21e-35f9bb6b8430"
+    },
+    {
+      "start_time": 237,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This particular artwork displays a lookout post that resembles a skull, or death. This is significant as it emphasizes that the Japanese who were in the internment camps were not safe, nor were they treated humanely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "bf5aa845-e7bb-4452-95bb-59b7292b239e"
+    },
+    {
+      "start_time": 316,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here Miyamoto code-switches between English and Japanese while repeating “gaman”, a word connected to the expectation that she must stay strong throughout hardship. The heaviness in her narration makes the word feel like a burden she’s been taught to carry that’s been passed down through generations. By switching between languages, she shows how cultural memory is inherited through the words and expectations families teach us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "d2d6b068-f9fc-4d1f-b2fa-a43498eb79d9"
+    },
+    {
+      "start_time": 275,
+      "end_time": 313,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Throughout the song, the phrase “Will we be here all our lives?” keeps repeating. But here, Miyamoto repeatedly begins the question but interrupts it with historical details and stories that have gone untold. This delays the expected ending of the line, building tension and anticipation. The interrupted repetition shows how the lives of Japanese Americans were also disrupted, while the repeated return to the phrase points toward a refusal to let their stories disappear."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        },
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "25a505c7-fa80-4029-8941-e8e5b0f51290"
+    },
+    {
+      "start_time": 277,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Returning to the same quote repeatedly evokes a sort of call and response type form where a soloist would sing and a larger group would respond typically with the same music each time. Repetition reinforces the memorability of this passage. As the listener we act as the proxy for the larger party in a call and response form.  The first time she sings “Will I be here all my life” and the subsequent times are “Will we be here all our lives?”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "01a2d78e-04b4-46ce-a0ae-16665d318fe0"
+    },
+    {
+      "start_time": 0,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We hear a rhythmic ostinato repeating the note G-sharp. This pitch finally changes at the 50 second mark. This is called a \"dominant pedal\" and creates a suspenseful unresolved mood, appropriate for the topic and lyrics because Miyamoto is asking un-answered questions mirroring the unresolved dominant."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "ec2ff4f4-4532-4116-b558-bdd2b92b0966"
+    },
+    {
+      "start_time": 6,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Repetition of \"120,000\" stories emphasizes the number of people who suffered due to the internment camps during World War II. It starts off by reminding us and calling us to focus on the stories of the people who were affected by the false claims that Japanese people in America were accused of espionage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "8b9a6c09-6f73-4b29-86ce-f91dd4374587"
+    },
+    {
+      "start_time": 143,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are pauses before and after she says \"gaman\", emphasizing the word and showing its importance. It emphasizes the strength and perseverance that the Japanese people in the camps had during such a rough and painful time. Her grandmother wanted to give her encouragement and motivation to stay strong through the situation and to be patient while awaiting their freedom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "635ccd77-c203-44b9-bfc0-a02a951e7b3e"
+    },
+    {
+      "start_time": 320,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miyamoto begins the outro of the song with the title \"Gaman.\" In the midst of the tragedy and suffering, the Japanese Americans tell themselves to endure the oppression. This is the only way they can preserve their identity, and carry on/continue to build their legacy. The title being in Japanese specifically captured the essence of holding onto culture intentionally."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "220991c2-32a4-465b-bf6f-dad2490221e2"
+    },
+    {
+      "start_time": 43,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first artwork shown is a young girl against barbed wire. The music is a simple piano melody that creates a feeling of trapped innocence. Being the first image of the scene, it immediately evokes a feeling of loneliness while the lyrics reinforce her lack of autonomy. As an intro to the song, this is able to set the tone and place the listener/viewer in a first person perspective of the setting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "1f577a69-c280-454a-9f19-3801789150fb"
+    },
+    {
+      "start_time": 70,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After Miyamoto sings \"will I be here all my life,\" a piano begins to play a repeated note and the MV shifts to an image of young girl laying awake at night panning outward towards the window. The monotony of the music seems to symbolize how endless and hopeless the nights seem while living in captivity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "a5d875bd-26d0-4147-b0b4-2e4cd641bcb5"
+    },
+    {
+      "start_time": 120,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The lyrics \"we fight the wind and sand\" sound like a call back to the lyrics at the beginning of the song, \"120,000 stories buried in the sand.\" At this point, the narrator is fighting against the sand that is trying to bury them or make them give up on life. This beginning implies that in the end they did lose the battle against the sand of time and were forgotten."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "d9990db5-f4a9-42c6-b047-441fc06272e9"
+    },
+    {
+      "start_time": 150,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When she is speaking not for herself, she changes from her most common form of narration, more of singing that just speaking the story. Here, this dynamic completely changes as she speaks for her Bachan. She says it with emphasis and really no singing aspect to it at all. I think that this is to put emphasis on the words she told her that adds to the story being tolf throughout the song."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "31634b9f-d9cf-4a84-a9b9-daf1ddbf22eb"
+    },
+    {
+      "start_time": 270,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This point is the loudest that the piano and other instruments get. It is also the time when she is singing the loudest at any point in the song. She is listing all the locations as she repeats the same verses. This really emphasizes all the people she is singing to and allows the instruments to join in on this emphasis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "bddfc72a-4604-4e4c-968c-f06737520446"
+    },
+    {
+      "start_time": 204,
+      "end_time": 245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this section, Nobuko Miyamoto allows the male choir to take over with their hums, sustains, and melancholic harmonies rather than serve as an accompaniment. I interpret the presence of these voices as the 120,000 souls that never got to share their stories. It sounds beautifully mournful, tragic, and haunting. Paired with the emotion evoking graphics, Miyamoto invites the audience to connect with the pain she holds regarding her historical experiences."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "6fb5dc33-7eec-42d0-94b8-bc2108dc6616"
+    },
+    {
+      "start_time": 140,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nobuku Miyamotu reconciles with a memory, person, and word so sacred to her, she named her project after it. Her grandmother said “Gaman” which is the Japanese word that conveys stoicism and endurance of hardship. Her voice is undoubtedly powerful, but when she speaks Japanese, there is a new level of intensity that is exposed. It’s as if her mother tongue validates her testimony because despite the emphasis of Gaman, she never forgot her identity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Words",
+          "tag": "language"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "cef3d2a1-3ef3-49fa-91ce-e70d2d051e70"
+    },
+    {
+      "start_time": 110,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this moment Miyamoto describes her hardships like traveling through the barraks fighting strong weather. What i really noticed was the background vocals repeating the same sound over and over. To me they could be interpreted as all 120,000 stories fighting with an encouraging tone for those who lived on. Circling back to the memory theme, its almost as if she is having us remember the lost lives and everything they had to go through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "95ca8deb-acf3-4c08-91ad-21121fe91602"
+    },
+    {
+      "start_time": 300,
+      "end_time": 325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The term \"Gaman\" is to endure te impossible with patience and endurance. From the artist repeating \"will we be here all our lives?\" to the an of the little girl trapped in the room and then finally the message of gaman. This can be interpreted from the oung childs point of view asking naiive questions and simply wantg to be free. The message of gaman is for the children especially and for all of the people to stay strong throughout this hardship."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "8786d96b-7722-4207-afd5-a8536c5c0dec"
+    },
+    {
+      "start_time": 55,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The lyrcs cry \"You're all out there, and I'm in here. Why did you put me here? Will I be here all my life?\" These simple pleas sort of mimic a child's understanding of a terrible situation, lending itself to the image of people wrongly imprisoned."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "76ea328d-a068-4a62-bfe4-d0b67cd6fe6a"
+    },
+    {
+      "start_time": 135,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We can see an illustration of an older woman with her face partially concealed. This comes with a lyric \"will we be here all our lives?\" being spoken by her granddaughter. The old woman is trying to maintain her composure an dbe strong for the young, confused children. Gaman."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "421bb157-4078-426e-9cd2-afe0af1d4389"
+    },
+    {
+      "start_time": 277,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I notice that Miyamoto's voice becomes more emotional and intense in this moment. The repetition and pacing make the memory feel heavy and difficult to leave behind. The voice not only tells us about the past; it makes the past feel present."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "c62bbf2d-ef0f-4e33-a217-256b9a3452ea"
+    },
+    {
+      "start_time": 210,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this moment, I notice the way the vocal line is layered with the instrumental accompaniment. The accompaniment does not simply support the voice; it creates a musical space around it. The repeated musical figures and the steady pulse give the performance a sense of continuity, while small changes in the vocal phrasing create contrast. I think this musical structure is important because it makes the memory feel ongoing rather than like something that belongs only to the past."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "30348752-ea29-4264-b04b-d1077adc2259"
+    },
+    {
+      "start_time": 39,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The dark atmosphere at the beginning, the girl’s anxiety, and the lyrics that sound as if she is expressing anger toward an unknown person who has confined her, along with images of barbed wire and small living spaces, bring to mind the Holocaust during the World Wars. However, when we actually see her covered with an American blanket, it seems to suggest that in war, innocent civilians are sacrificed regardless of whether they belong to the allied side or the enemy side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "361115aa-bfe4-45d7-888f-9466588b4a9c"
+    },
+    {
+      "start_time": 196,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The woman’s voice, which sounds as if she is bursting out in anger and frustration, along with the choice of words connected to the historical situation, reflects the dark and desperate circumstances of that period. The following images of a crying man and other extreme scenes that look as if someone is pointing a gun further intensify the tragedy of that time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "224463ce-3bc5-417d-9aa7-847e69d5f280"
+    },
+    {
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The movement of the images that accompany the song throughout the song draws the attention of the audience, fully emphasizing the matters of the song. The artist is able to use both imagery and audio to evoke strong emotions"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "movement"
+        },
+        {
+          "category": "Image",
+          "tag": "staging"
+        }
+      ],
+      "uuid": "27d6f1f4-994a-4a13-bd86-de5e8061052f"
+    },
+    {
+      "start_time": 340,
+      "end_time": 345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The singer's words and tone harshes when switching to Japanese, drawing a special emphasis on the titular word \"Gaman.\" This allows the audience to grasp the weight of the word without fully understanding it, and by using the rest of the song as a context clue, we are able to understand that it is a symbol of resistance and tenacity despite not knowing what the word means"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "c74c24b6-39f3-4b22-9d36-eee6cb90ad89"
+    },
+    {
+      "start_time": 80,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the instruments enter under the recorded voice, the story feels more emotional. The music helps us feel the fear and tension behind the speaker’s words."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        }
+      ],
+      "uuid": "1f5fb917-6076-4080-b9e4-cb3204bae9ac"
+    },
+    {
+      "start_time": 278,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The music becomes stronger while the voice continues. It makes the memory feel more intense and shows emotions that the spoken words alone cannot fully express."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "dynamics"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "ad95e85c-26ca-464e-9e31-7b9b496d0302"
+    },
+    {
+      "start_time": 0,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's shakiness and rasp in the woman's voice, setting the tone for the rest of the song. The texture adds emotion to the music, and we can find meaning in her voice in a storytelling way. This is. a significant way to begin a song, with a strong voice and emotion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        },
+        {
+          "category": "Words",
+          "tag": "speech"
+        }
+      ],
+      "uuid": "04e5f532-cc65-4f45-99a0-1b357933ee59"
+    },
+    {
+      "start_time": 120,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This part of the song changes from singing about a moment in the past to asking a question in the moment. This caught my attention and pulled at my emotions with the lyrical choice she used. This is a strong way to capture listeners' attention and portray a difficult moment from someone's life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        }
+      ],
+      "uuid": "a7d2a459-1cfb-42c6-8c7e-f11d438e5f13"
+    },
+    {
+      "start_time": 144,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miyamoto switches out of singing and speaks her grandmother's words in Japanese instead. The shift out of English is the key element here, more than the vocal delivery itself, since it lets the memory arrive in the language it actually happened in, making it feel sincere and more tangible to the listener."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        }
+      ],
+      "uuid": "a21442a7-37e1-488a-8883-eef43d439847"
+    },
+    {
+      "start_time": 280,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Miyamoto lists off the internment camp names, the video keeps cutting back to the same grave. The repetition of the grave image alongside the list is what keeps this from feeling like something of the past and makes the loss feel present and ongoing instead of something that can be moved on from."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "d6a4aa05-7fc7-4804-877a-641ca669a684"
+    },
+    {
+      "start_time": 0,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is a dominant pedal of G sharp that is an ostinato and continues for this period of time. Creates a very suspenseful atmosphere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "aa265e7d-d45f-4d42-b5eb-5751f811ca9a"
+    },
+    {
+      "start_time": 100,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the end, the lyrics ask, “Will we be here all our lives?” and a choir begins to sing. The voices of the imprisoned Japanese people come together, with their soft “oohs” expressing sadness and longing. Like Miyamoto, who represents the voices of those in prison, the choir also seems to question how long they will have to remain trapped in this unfair situation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "cb4e3581-ddb0-4d6f-b5c6-cebfc1df26fb"
+    },
+    {
+      "start_time": 0,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is a very thin texture at the beginning, with an isolated piano playing repeated quarter notes alongisde the opening vocals. This piano repititions create a feeling of dread and emptiness which sets up the listener to read the dialogue on the screen, which helps us understand that the song is about the 120,000 Japanese-Americans who were held in U.S. Internment Camps."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        }
+      ],
+      "uuid": "23d946ee-bf03-40fe-abcc-b033e4ddb2c4"
+    },
+    {
+      "start_time": 80,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section gives us different images of children and families that were held in the internment camps, which invokes a sense of emotion upon the listener and forces us to visualize what life was like for these people. Between the lyrics \"will we be here\" and \"all our lives\" there is a pause that really enphasizes the suspense and confusion that they felt as they did not know how long that this situation would be going on for."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "rhythm"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "b122b3fe-be98-493d-8e53-c2d52ac17a6b"
+    },
+    {
+      "start_time": 43,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The lyrics are explicitly talking about the singer, singling herself out in retrospect to the 120,000 stories. Presents one of the many, many stories from the camps before shifting to a collective of people, met with a change in soundscape with the vocals of several people after being solely piano with the one voice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "lyrics"
+        },
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "texture"
+        }
+      ],
+      "uuid": "2de45c12-1d76-4d62-b3c7-3ead28c377c7"
+    },
+    {
+      "start_time": 141,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A portion of the lyrics are in Japanese (moto gaman shite iko, ne) and (bāchan) which symbolizes the cultural identity and heritage belonging to the people that were being estranged based on the results from the Second World War. The lyrics translate to a conversation with her grandmother telling her to be patient until the suffering is over, tying into the title of the song “Gaman”–to endure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "3cc403aa-80c7-48bd-889c-b3d21703062a"
+    },
+    {
+      "start_time": 47,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This first verse sets the stage for how the stories that are mentioned will be from a first person point of view. The character illustrated is young and childlike. And with that comes innocence. Not yelling at a cruel world and cruel people, but simply asking, \"Will I be here my whole life?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Image",
+          "tag": "framing"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "49c26a6b-7a76-489f-a6bd-3a0532c584c0"
+    },
+    {
+      "start_time": 141,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The separation of spoken word from the sung verse really emphasizes the weight of her grandmothers words. Miyamoto also uses this as a break in the song, letting the listener sit and think of the words and responsibility that her grandmother carries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "speech"
+        },
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "c4c36c86-aea8-47c7-ae42-706713cd8654"
+    },
+    {
+      "start_time": 144,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Miyamoto quotes her grandmother's \"gaman, motto gaman shite ne\" in Japanese, she drops the melodic delivery she uses elsewhere and speaks the line almost flatly. Keeping the grandmother's actual words untranslated and unsung preserves them as speech rather than song lyric, marking a boundary between her own voice and the inherited words she's simply carrying forward."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        }
+      ],
+      "uuid": "78480e80-941f-4b44-879f-e742b8fe8880"
+    },
+    {
+      "start_time": 281,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As she lists the names of internment camps, the recurring line \"will we be here all our lives\" keeps interrupting itself, delaying its own completion each time it returns. The repetition with variation mimics how trauma resurfaces rather than resolves. As such, each cycle adds new historical detail, so the song's form itself performs the accumulation of the \"120,000 stories\" it says it holds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "63a33356-bfa1-46cd-b6d3-836b05918d9d"
+    },
+    {
+      "start_time": 39,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The single repeated piano note that has sustained the opening finally breaks into a small motif. A breath-like wind instrument enters at a very low dynamic, and the title Gaman disappears as the story begins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound",
+          "tag": "instrumentation"
+        },
+        {
+          "category": "Musical Form",
+          "tag": "structure"
+        }
+      ],
+      "uuid": "7d2459d7-9c54-41bd-aa87-555ccaa867f5"
+    },
+    {
+      "start_time": 97,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the language shifts from “I” to “we” for the first time, the background voices begin to sound more like a choir. At the same time, we see several people together, reinforcing the shift from the individual to the collective."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Words",
+          "tag": "language"
+        },
+        {
+          "category": "Sound",
+          "tag": "vocals"
+        },
+        {
+          "category": "Image",
+          "tag": "framing"
+        }
+      ],
+      "uuid": "7a679894-f286-4f10-8a8c-77a6310bb0c7"
+    }
+  ],
   "set": "Default",
   "event_id": "4dffbe6f-0d38-4b58-9bba-b86076296759",
   "source_id": "a295c2b9-58ed-4fe3-a327-d80cf9c50c25"
